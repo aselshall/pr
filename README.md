@@ -99,14 +99,14 @@ Permitted with proper citation. Students must document AI usage in the appendix.
 - Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
 
 ### Writing Lab
-Visit the [FGCU Writing Lab](https://www.fgcu.edu/academics/caa/writinglab/) for assistance.
+- Visit the [FGCU Writing Lab](https://www.fgcu.edu/academics/caa/writinglab/) for assistance.
 
 ### Library Resources
 - [Library Main Page](http://library.fgcu.edu)  
 - [Instructional Materials](http://library.fgcu.edu/RSD/Instruction/tutorials.htm)  
 
 ### High-Performance Computing Resources
-Learn more about [HiPerGator AI](https://www.fgcu.edu).
+- Learn more about [HiPerGator AI](https://www.fgcu.edu).
 
 ### Syllabus Change Policy
-The syllabus is subject to change with prior notice, except for grading.
+- The syllabus is subject to change with prior notice, except for grading.
