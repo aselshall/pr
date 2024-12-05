@@ -20,7 +20,7 @@ U.A. Whitaker College of Engineering (Joint Appointment with The Water School)
 - Phone: (239) 590-7591  
 - Email: aelshall@fgcu.edu  
 - Research Website: [aelshall.weebly.com](https://aelshall.weebly.com)  
-- Office Hours: Tuesday and Thursday 2:00 pm – 4:00 pm (and by appointment)
+- Office Hours: Tuesday and Thursday 2:00 pm – 4:00 pm and by appointment
 
 ## Catalogue Course Description
 Individual work culminating in a professional practice-oriented report.
