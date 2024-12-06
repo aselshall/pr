@@ -42,6 +42,7 @@ No textbook required. Materials will be posted on Canvas.
 ## Assessment and Grading
 
 ### Grading Scale
+
 | Grade | Percentage   | Grade | Percentage   |
 |-------|--------------|-------|--------------|
 | A     | 94–100%      | B-    | 80–83.99%    |
