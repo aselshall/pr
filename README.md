@@ -30,12 +30,11 @@ The objective of EGN 6457 Research Methods (prerequisite) and EGN 6941 Project i
 
 ## Course Learning Objectives
 By the end of this course, students will be able to:
-- Define and develop an individual project for the MSE Program
-- Research project subject, and conduct and complete your project
-- Provide updates on report progress
-- Present summary of the report to class
-- Present the project to class, or at a research symposium such as Eagle X
-- Submit project report
+1. Define and develop an individual project for the MSE Program
+2. Research project subject, and conduct and complete your project
+3. Provide updates on report progress
+4. Present class your project to class, or at a research symposium such as Eagle X
+5. Submit professional project report
 
 ## Required Text 
 No textbook required. Materials will be posted on Canvas.
