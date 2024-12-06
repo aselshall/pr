@@ -51,8 +51,6 @@ No textbook required. Materials will be posted on Canvas.
 | B     | 84–86.99%    | D     | 64–66.99%    |
 | F     | Below 60%    |       |              |
 
-
-
 ### Assessment Plan
 - Project Proposal: 5%  
 - Progress Meetings: 10%  
@@ -60,10 +58,10 @@ No textbook required. Materials will be posted on Canvas.
 - Project Report: 65%  
 
 ### Project Proposal
-Submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). Incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
+You need to submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw), and incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Progress Meetings
-Bi-weekly, one-on-one meetings will be scheduled during Week 1 for the whole semester. These progress meetings are mandatory and graded. Additional meetings may be requested for guidance.
+Bi-weekly, one-on-one meetings will be scheduled during Week 1 for the whole semester. These progress meetings are mandatory and graded. Each two instances of excessive tardiness (> 5 minutes) will count as one absence. Progress meetings may include some graded assignments (e.g., reading assignments) based on student needs. Additional meetings may be requested for guidance. 
 
 ### Project Presentation
 Final presentations will take place on **April 22 (6:00–8:00 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
@@ -87,6 +85,28 @@ Students must complete and report on their independently chosen projects. Requir
 - Drop Deadlines: Refer to the academic calendar
 - Grades Due: Tuesday, May 6, 2025
 
+## Program Learning Outcomes  
+The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows.
+
+### Content/Discipline Knowledge and Skills (DK) – MSE graduates will be able to:  
+1. Apply higher-level math, science, and engineering skills to research and/or design engineering systems, components, or processes to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.  
+2. Understand the professional and ethical responsibilities associated with engineering practice and engineering research.  
+3. Use the techniques, skills, and modern engineering tools necessary for engineering practice and engineering research.  
+
+Content/discipline knowledge and skills are assessed at the program level using appropriate coursework including examinations, assignments, and presentations.
+
+### Communication Skills (CS) – MSE graduates will be able to:  
+1. Organize and relate ideas coherently in written, oral, and graphic form.  
+2. Develop and present consistent arguments to diverse audiences.
+
+Communication skills are assessed at the University, College, and Program levels through oral and written presentations, project reports, and other assignments throughout the curriculum.
+
+### Critical Thinking Skills (CT) – MSE graduates will be able to:  
+1. Identify problems and the relevant information needed to solve them.  
+2. Analyze and synthesize information and draw reasoned inferences.  
+3. Formulate and evaluate appropriate problem-solving strategies.
+
+Critical thinking skills are assessed at the University, College, and Program levels through oral and written presentations, project reports, exams, and other assignments throughout the curriculum.
 
 ## University Policies
 
