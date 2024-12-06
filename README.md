@@ -57,16 +57,16 @@ No textbook required. Materials will be posted on Canvas.
 - Project Report: 65%  
 
 ### Project Proposal
-Submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). Incorporate feedback for final approval by **Week 2**.
+Submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). Incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Progress Meetings
 Bi-weekly, one-on-one meetings will be scheduled during Week 1 for the whole semester. These progress meetings are mandatory and graded. Additional meetings may be requested for guidance.
 
 ### Project Presentation
-Final presentations will take place on **April 22 (6:00–8:00 pm) or as we will schedule during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in meetings. 
+Final presentations will take place on **April 22 (6:00–8:00 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
 
 ### Project Report
-Students must complete and report on their independently chosen projects. Required submissions include a project proposal, progress report, and final report. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor. Progress reports are ungraded but will receive instructor feedback to improve the final report. The project report is due on April 24 at 11:59 pm. Your reports must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. You need to follow the guidelines and rubric discussed in meetings.
+Students must complete and report on their independently chosen projects. Required submissions include a project proposal, progress report, and final report. Progress reports are ungraded but will receive instructor feedback to improve the final report. The project report is due by April 24 at 11:59 pm. Your reports must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. You need to follow the guidelines and rubric discussed in progress meetings.
 
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
