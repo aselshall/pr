@@ -45,14 +45,13 @@ No textbook required. Materials will be posted on Canvas.
 
 | Grade | Percentage   | Grade | Percentage   |
 |-------|--------------|-------|--------------|
-| A     | 94–100%      | B-    | 80–83.99%    |
-
-
-   
+| A     | 94–100%      | B-    | 80–83.99%    |  
 | A-    | 90–93.99%    | C+    | 77–79.99%    |
 | B+    | 87–89.99%    | C     | 74–76.99%    |
 | B     | 84–86.99%    | D     | 64–66.99%    |
 | F     | Below 60%    |       |              |
+
+
 
 ### Assessment Plan
 - Project Proposal: 5%  
