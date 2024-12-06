@@ -26,7 +26,7 @@ U.A. Whitaker College of Engineering (Joint Appointment with The Water School)
 Individual work culminating in a professional practice-oriented report.
 
 ## Introduction
-The objective of EGN 6457 Research Methods (prerequisite) and EGN 6941 Project is to propose and execute a research project while improving communication skills in writing and presentation. In EGN 6457, students developed a research proposal, and in EGN 6941, they will execute and share their findings as described in the [course details](https://aselshall.github.io/rm/hw/big-picture). This course provides the framework and credit hours for students to conduct and complete their projects, monitored by the instructor through regular meetings. Students will work independently with technical support from faculty and external experts as needed.
+The objective of EGN 6457 Research Methods (prerequisite) and EGN 6941 Project is to propose and execute a research project while improving communication skills in writing and presentation. In EGN 6457, students developed a research proposal, and in EGN 6941, they will execute and share their findings as described in the [course details](https://aselshall.github.io/rm/hw/big-picture). This course provides the credit hours for students to conduct and complete their projects, monitored by the instructor through regular meetings. Students will work independently with technical support from faculty and external experts as needed.
 
 ## Course Learning Objectives
 By the end of this course, students will be able to:
