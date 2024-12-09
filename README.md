@@ -91,7 +91,7 @@ Your participation grade will reflect your professional attitude. For example, s
 - One unexecused absence will not affect your grade provided that you informed the instructor in advance
 - Rescheduling with credit is only permitted for an execused absence
 - Unexecused absence or rescheduleing without an execused absence results in zero for this meeting
-- Execused absence requires written documentation as outlined in the [Execused Absence Policy](#-Execused-Absence-Policy)
+- Execused absence requires written documentation as outlined in the [Execused Absence Policy](https://aselshall.github.io/pr/#execused-absence-policy)
 
 ### Project Presentation
 Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
