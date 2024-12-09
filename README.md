@@ -75,7 +75,7 @@ This schedule is tentative and may be adjusted based on individual student needs
 You need to submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw), and incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Participation
-One-on-one progress meetings will be scheduled for the entire semester during Week 1 in our introductory meeting. These meetings are mandatory and graded. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
+One-on-one progress meetings will be scheduled for the entire semester during Week 1 in our introductory meeting. These meetings, which are online or in-person, are mandatory and graded. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
 Your participation grade will reflect your professional attitude. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Effective time management is a basic skill and will be considered as part of the participation evaluation. Teamwork is another key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
@@ -88,6 +88,7 @@ Your participation grade will reflect your professional attitude. For example, s
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members. | Communication is polite but lacks consistent collaboration.  | Dismissive, uncooperative behavior, or unprofessional      |
 
 #### Absence and rescheduling
+- One unexecused absence will not affect your grade provided that you informed the instructor in advance
 - Rescheduling with credit is only permitted for an execused absence
 - Unexecused absence or rescheduleing without an execused absence results in zero for this meeting
 - Execused absence requires written documentation as outlined in the [Execused Absence Policy](#-Execused-Absence-Policy)
