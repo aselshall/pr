@@ -39,16 +39,16 @@ By the end of this course, students will be able to:
 No textbook required. Materials will be posted on Canvas.
 
 ## Course Schedule
-This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas.
+This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas. Progress meeting are individual meetings spread over 3 weeks.
 
 | Week | Date       | Activity                                     | Due Date                                  |
 |------|------------|---------------------------------------------|-------------------------------------------|
 | 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |                                           |
-| 2-4  | Jan 20 – Feb 9 | Progress meeting 1 (Individual meetings spread over 3 weeks) | Proposal due by Jan 26 at 11:59 pm        |
-| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 (Individual meetings spread over 3 weeks) |                                           |
+| 2-4  | Jan 20 – Feb 9 | Progress meeting 1  | Proposal due by Jan 26 at 11:59 pm        |
+| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                           |
 | 8    | Mar 3 - Mar 9    | Spring break                                |                                           |
-| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 (Individual meetings spread over 3 weeks) |                                           |
-| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 (Individual meetings spread over 3 weeks) | Interim report due by Apr 1 at 11:59 pm   |
+| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |                                           |
+| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 | Interim report due by Apr 1 at 11:59 pm   |
 | 15   | Apr 22     | Final presentation (In-class or Egale-X)    | Presentation time TBD                     |
 |      | Apr 24    | Final report due                            | Final report due by 11:59 pm              |
 
