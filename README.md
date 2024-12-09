@@ -83,18 +83,22 @@ This schedule is tentative and may be adjusted based on individual student needs
 You need to submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw), and incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Participation
-Bi-weekly, one-on-one progress meetings will be scheduled for the entire semester during Week 1 in our introductory meeting. These meetings are mandatory and graded. Every two instances of excessive tardiness (> 5 minutes) will count as one absence. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
+Bi-weekly, one-on-one progress meetings will be scheduled for the entire semester during Week 1 in our introductory meeting. These meetings are mandatory and graded. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
 Your participation grade will reflect your professional attitude. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Effective time management is a basic skill and will be considered as part of the participation evaluation. Teamwork is another key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
-| **Criteria**              | **Exemplary (10 Points)**                                         | **Satisfactory (6-9 Points)**                             | **Needs improvement (0- 5 Points)**                           |
+| **Criteria**              | **Good (8-10 Points)**                                         | **Satisfactory (5-7 Points)**                             | **Needs improvement (0- 4 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| **Attendance and punctuality (25%)** | Attends all scheduled meetings on time and actively participates. | Occasionally late or misses meetings without valid reasons. | Frequently late or absent, disrupting progress.                |
-| **Preparedness (25%)**          | Consistently comes prepared with clear updates, progress, and specific questions. | Sometimes unprepared or provides vague updates.              | Rarely prepared, with no meaningful updates or questions.       |
+| **Attendance and punctuality (30%)** | Attends all meetings on time and actively participates | Occasionally late  | Frequently late or reschedules meetings with repeated excuses that lack credibility |
+| **Preparedness (20%)**          | Consistently comes prepared with clear updates, progress, and specific questions. | Sometimes unprepared or provides vague updates.              | Rarely prepared, with no meaningful updates or questions.       |
 | **Time management (20%)**       | Manages deadlines effectively and requests feedback well in advance. | Occasionally late or relies on last-minute feedback requests. | Frequently misses deadlines or depends on last-minute help.     |
 | **Responsiveness to feedback (20%)** | Applies instructor feedback constructively and shows steady improvement. | Applies feedback inconsistently or delays acting on it.      | Frequently ignores feedback or repeats previous mistakes.       |
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members. | Communication is polite but lacks consistent collaboration.  | Dismissive, uncooperative behavior, or unprofessional      |
 
+#### Absence and rescheduling
+- Rescheduleing is only permitter for execused absence
+- Unexecused absence or rescheduleing without an execused absence will result in a grade of zero for that meeting
+- Execused absence requires written documentation as outlined in the [Execused Absence Policy](#-Execused-Absence-Policy)
 
 ### Project Presentation
 Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
@@ -105,13 +109,23 @@ Students must complete and report on their independently chosen projects. Requir
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
-- Unexecused late submissions received after the deadline will incur a penalty of 10% per day up to a maximum of 50% deduction
-- Once grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day.
+- Once grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned.
 
 ### Execused Absence Policy
-- Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
-- Absence will be execused after the verification of the submitted document
-- Any attempt to falsify documents will be taken very seriously in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
+- A valid excuse requires written documentation from a certified medical professional, work supervisor, faculty member, administrator, coach, or athletic director.
+- Examples of valid excuses include:
+  - "I'm traveling for work," with an attached letter from your supervisor.
+  - "I have a medical appointment," with an attached note from a medical professional.
+  - "I'm attending a university-sanctioned event," with documentation from the event organizer, faculty, or coach.
+- Examples of invalid excuses include:
+  - "I am not feeling well today."
+  - "I have a flat tire."
+  - "I'm traveling for work" (without supporting documentation).
+  - "My parents are visiting."
+  - "There was an accident on I-75"
+- Absences or missing a deadline will only be excused after the verification of the submitted documentation.
+- Any attempt to falsify documents will be taken very seriously in accordance with FGCU policies and procedures [https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf].
 
 ### Additional Notes
 - Incomplete Grades: Only in exceptional circumstances
