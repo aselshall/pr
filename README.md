@@ -43,22 +43,14 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 | Week | Date       | Activity                                     | Due Date                                  |
 |------|------------|---------------------------------------------|-------------------------------------------|
-| 1    | 13-Jan     | Introductory meeting (All students)         |                                           |
-| 2    | 20-Jan     | Progress meeting 1 (First half of students) | Proposal due by Jan 26 at 11:59 pm        |
-| 3    | 27-Jan     | Progress meeting 1 (Second half of students)|                                           |
-| 4    | 3-Feb      | Progress meeting 2 (First half of students) |                                           |
-| 5    | 10-Feb     | Progress meeting 2 (Second half of students)|                                           |
-| 6    | 17-Feb     | Progress meeting 3 (First half of students) |                                           |
-| 7    | 24-Feb     | Progress meeting 3 (Second half of students)|                                           |
-| 8    | 3-Mar      | Spring break                                |                                           |
-| 9    | 10-Mar     | Progress meeting 4 (First half of students) |                                           |
-| 10   | 17-Mar     | Progress meeting 4 (Second half of students)|                                           |
-| 11   | 24-Mar     | Progress meeting 5 (First half of students) |                                           |
-| 12   | 31-Mar     | Progress meeting 5 (Second half of students)| Interim report due by Apr 1 at 11:59 pm   |
-| 13   | 7-Apr      | Progress meeting 6 (First half of students) |                                           |
-| 14   | 14-Apr     | Progress meeting 6 (Second half of students)|                                           |
-| 15   | 22-Apr     | Final presentation (in-class or Egale-X)    | In-class presentation time TBD            |
-| 15   | 24-Apr     | Final report due                            | Final report due by 11:59 pm              |
+| 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |                                           |
+| 2-4  | Jan 20 – Feb 9 | Progress meeting 1 (Individual meetings spread over 3 weeks) | Proposal due by Jan 26 at 11:59 pm        |
+| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 (Individual meetings spread over 3 weeks) |                                           |
+| 8    | Mar 3 - Mar 9    | Spring break                                |                                           |
+| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 (Individual meetings spread over 3 weeks) |                                           |
+| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 (Individual meetings spread over 3 weeks) | Interim report due by Apr 1 at 11:59 pm   |
+| 15   | Apr 22     | Final presentation (In-class or Egale-X)    | Presentation time TBD                     |
+|      | Apr 24    | Final report due                            | Final report due by 11:59 pm              |
 
 
 ## Assessment and Grading
