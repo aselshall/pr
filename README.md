@@ -38,6 +38,29 @@ By the end of this course, students will be able to:
 ## Required Text 
 No textbook required. Materials will be posted on Canvas.
 
+## Course Schedule
+This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas.
+
+| Week | Date       | Activity                                     | Due Date                                  |
+|------|------------|---------------------------------------------|-------------------------------------------|
+| 1    | 13-Jan     | Introductory meeting (All students)         |                                           |
+| 2    | 20-Jan     | Progress meeting 1 (First half of students) | Proposal due by Jan 26 at 11:59 pm        |
+| 3    | 27-Jan     | Progress meeting 1 (Second half of students)|                                           |
+| 4    | 3-Feb      | Progress meeting 2 (First half of students) |                                           |
+| 5    | 10-Feb     | Progress meeting 2 (Second half of students)|                                           |
+| 6    | 17-Feb     | Progress meeting 3 (First half of students) |                                           |
+| 7    | 24-Feb     | Progress meeting 3 (Second half of students)|                                           |
+| 8    | 3-Mar      | Spring break                                |                                           |
+| 9    | 10-Mar     | Progress meeting 4 (First half of students) |                                           |
+| 10   | 17-Mar     | Progress meeting 4 (Second half of students)|                                           |
+| 11   | 24-Mar     | Progress meeting 5 (First half of students) |                                           |
+| 12   | 31-Mar     | Progress meeting 5 (Second half of students)| Interim report due by Apr 1 at 11:59 pm   |
+| 13   | 7-Apr      | Progress meeting 6 (First half of students) |                                           |
+| 14   | 14-Apr     | Progress meeting 6 (Second half of students)|                                           |
+| 15   | 22-Apr     | Final presentation (in-class or Egale-X)    | In-class presentation time TBD            |
+| 15   | 24-Apr     | Final report due                            | Final report due by 11:59 pm              |
+
+
 ## Assessment and Grading
 
 ### Grading Scale
@@ -60,9 +83,9 @@ No textbook required. Materials will be posted on Canvas.
 You need to submit a draft proposal by **Week 1** using [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw), and incorporate feedback for final approval by **Week 2**. The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Participation
-Bi-weekly, one-on-one progress meetings will be scheduled during Week 1 for the entire semester. These meetings are mandatory and graded. Every two instances of excessive tardiness (> 5 minutes) will count as one absence. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
+Bi-weekly, one-on-one progress meetings will be scheduled for the entire semester during Week 1 in our introductory meeting. These meetings are mandatory and graded. Every two instances of excessive tardiness (> 5 minutes) will count as one absence. Meetings may also include graded assignments (e.g., reading assignments) based on individual student needs. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
-Your participation grade will reflect your professional attitude. For example, students must request report reviews at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback during the semester. Effective time management is a basic skill and will be considered as part of the evaluation for participation. Teamwork is another key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and maturity during the course according to the following expectations.
+Your participation grade will reflect your professional attitude. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Effective time management is a basic skill and will be considered as part of the participation evaluation. Teamwork is another key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
 | **Criteria**              | **Exemplary (10 Points)**                                         | **Satisfactory (6-9 Points)**                             | **Needs improvement (0- 5 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
@@ -77,9 +100,7 @@ Your participation grade will reflect your professional attitude. For example, s
 Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at Eagle X ([details](https://www.fgcu.edu/eaglex)) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
 
 ### Project Report
-Students must complete and report on their independently chosen projects. Required submissions include a progress report, and final report. The progress report is ungraded but will receive instructor feedback to improve the final report. The project report is due by April 24 at 11:59 pm. 
-
-Your reports must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. You need to follow the guidelines and rubric discussed in progress meetings.
+Students must complete and report on their independently chosen projects. Required submissions include a interim report, and final report. The interim report is ungraded but will receive instructor feedback to improve the final report. Your reports must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. You need to follow the guidelines and rubric discussed in progress meetings.
 
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
