@@ -114,10 +114,10 @@ Students must complete and report on their independently chosen projects. Requir
 - Examples of invalid excuses include:
   - "I'm traveling for work" (without supporting documentation)
   - "I am not feeling well today"
-  - "I have a flat tire" (with a photo showing a flat tire)
   - "There was an accident on I-75"
+  - "I have a flat tire" (with a photo showing a flat tire)
 - Absences or missing a deadline will only be excused after the verification of the submitted documentation.
-- Any attempt to falsify documents will be taken very seriously in accordance with FGCU policies and procedures [https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf].
+- Any attempt to falsify documents will be taken very seriously in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
 
 ### Additional Notes
 - Incomplete Grades: Only in exceptional circumstances
