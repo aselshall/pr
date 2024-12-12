@@ -30,8 +30,8 @@ This rubric is your guide for developing a high-quality report that meets profes
 ## Core elements of the report
 ### 1. Cover Page
 
-Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)
-Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)
+Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)   
+Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
