@@ -3,12 +3,14 @@
 ## Overview
 
 ### Guidance
-
-- For guidance on improving your research paper,check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
+- Check the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) for your roadmap
+- For general guidance on improving your report,check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
+- Sections 1–6: These rubric sections focus on the structure and content of your report. Each section in your report must be accurate, detailed, and logically organized to support your research objectives and findings effectively.
+- Sections 7–10: Improving your writing skills is a main learning objective, and grading with respect to writing quality will be strict.
 
 ### How to use this rubric?
 
-This rubric is your guide for developing a high-quality report that meets professional standards. You can use this rubric to:
+This rubric is your guide for developing a high-quality report that meets professional standards including standards of technical writing. You can use this rubric to:
 - **Check each criterion** to ensure your report meets the standards and covers all necessary components
 - **Self-assess** your work before submission to identify areas for improvement
 - **Understand grading focus** to prioritize the most important aspects of your report
@@ -16,7 +18,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 ### Section breakdown
 
-- **Sections 1-7** focus on the core elements of your report (90 points):
+- **Sections 1-6** focus on the core elements of your report (90 points):
   - [1. Cover page (5 points)](#1-cover-page)
   - [2. Introduction (15 points)](#2-introduction)
   - [3. Methods (15 points)](#3-methods)
@@ -24,7 +26,7 @@ This rubric is your guide for developing a high-quality report that meets profes
   - [5. Discussion and conclusions (20 points)](#5-discussion-and-conclusions)
   - [6. Other required sections (5 points)](#6-other-required-sections)
 
-- **Sections 8-11** emphasize writing quality (10 points):
+- **Sections 7-10** emphasize writing quality (10 points):
   - [7. Cohesiveness of writing](#7-cohesiveness-of-writing)
   - [8. Depth, clarity, and rigorousness of writing](#8-depth-clarity-and-rigorousness-of-writing)
   - [9. Citation and source integration](#9-citation-and-source-integration)
@@ -108,7 +110,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 | **1. Data availability statement (20%)** | (1) Clearly describes where and how the data supporting the findings can be accessed, or provides a valid explanation for data unavailability; (2) Provides a data availability statement but lacks detail or clarity; (3) Data availability statement is missing or unclear. |
 | **2. Ethics statement (20%)**           | (1) Thoroughly addresses ethical considerations, including approvals, consent, and adherence to ethical guidelines, if applicable; (2) Mentions ethical considerations but lacks detail or completeness; (3) Ethics statement is missing or fails to address key ethical aspects. |
 | **3. Acknowledgments (40%)** | (1) Properly acknowledges all contributors not included as authors and their specific contributions (e.g., technical support, data analysis guidance, manuscript reviewing, assistance with literature review or data collection); (2) Acknowledgments are present but may lack specificity in describing contributions (e.g., "Thanks to John Doe" without specifying their role or contribution); (3) Acknowledgments are missing or fail to appropriately credit contributors (e.g., leaving out individuals who provided significant support or using vague terms like "helpful discussions"). |
-| **4. AI assistance statement (5%)**           | (1) Clearly discloses any use of AI tools ensuring transparency such as this example; (2) AI use is mentioned but lacks sufficient detail or clarity; (3) AI use statement is missing or unclear when applicable. |
+| **4. AI assistance statement (5%)**           | (1) Clearly discloses any use of AI tools ensuring transparency; here is an example; if AI is not used then clearly state this in this section (2) AI use is mentioned but lacks sufficient detail or clarity; (3) AI use statement is missing or unclear when applicable. |
 | **5. Funding (5%)**                    | (1) Clearly identifies all funding sources, grant numbers, and sponsors relevant to the study; (2) Funding information is present but incomplete or lacks specificity; (3) Funding information is missing or insufficiently detailed. |
 | **6. References (5%)**                 | (1) References are complete, formatted correctly, and adhere to the required AGU citation style; (2) References are mostly complete but may have minor formatting or consistency issues; (3) References are incomplete, poorly formatted, or inconsistent with the required style. |
 | **7. Appendix, if needed (5%)**         | (1) Appendix is included when appropriate and cited in the maintext, providing well-organized supplementary material relevant to the study; (2) Appendix is included but lacks organization, relevance, or citation in the main text; (3) Appendix is missing when needed or is poorly organized and irrelevant. |
