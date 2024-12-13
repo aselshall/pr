@@ -40,21 +40,36 @@ Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Cover Page Completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email, and abstract on longer than 200 words. (2) Cover page includes most required elements but has unnecessary information (e.g., logos) or an abstract exceeding/falling short of word limits. (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
-| **2. Title Quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
+| **1. Cover page completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email, and abstract on longer than 200 words. (2) Cover page includes most required elements but has unnecessary information (e.g., logos) or an abstract exceeding/falling short of word limits. (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
+| **2. Title quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
 | **3. Abstract (70%)** | (1) Abstract covers all key components: background, aim, methods, results, and conclusions, with a significance statement at the end. It is concise, structured, and standalone. (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance. (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. | 
 
 ### 2. Introduction
 
 Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
 
-| **Criterion** | **Evaluation** |
-| --- | --- |
-| **1. Background and context (10%)** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
-| **2. Literature review and research gaps (60%)** | (1) Conducts a thorough literature review, identifies key studies, and clearly states a significant research gap using more than 12 high-quality, current sources; (2) Conducts a solid review with 10-12 quality sources, identifying a research gap with some gaps in clarity; (3) Basic review with 5-10 sources, with minimal identification of the research gap. |
-| **3. Relevance and currency of sources (10%)** | (1) Sources are highly relevant, current, import sources not missing, and published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
-| **4. Definition of the research problem (10%)** | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
-| **5. Research question/hypothesis and objectives (10%)** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
+| **Criterion**                          | **Evaluation**                                                                                                                                              |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Background and context (10%)**    | (1) Provides a well-structured background that clearly sets the context for the research, indicating the field of work and its importance; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
+
+| **2. Literature review (50%)** | (1) A thorough literature review using evidence-based argumentation, identifies key studies, and either clearly states a research gap or highlights unresolved questions or practical applications using more than 12 high-quality, current sources; (2) Conducts a solid review with 10–12 quality sources, uses evidence-based arguments but may occasionally lack clarity or specificity, with minor overstatements or generalizations; (3) Basic review with 5–10 sources, relies on generalizations or weak evidence, and minimally identifies a research gap, unresolved questions, or practical applications. | 
+
+| **3. Relevance and currency of sources (10%)** | (1) Sources are highly relevant, current, with no important sources missing; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
+
+| **4. Definition of the Research Problem (10%)** | (1) The research problem is narrowly focused, clearly defined, and feasible to address using appropriate methods; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
+
+| **5. Research question/hypothesis (10%)** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or stronger connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
+
+| **6. Novelty and significance (10%)** | (1) Accurately outlines the purpose of the research, announces the present study, and explains its significance in a way that is supported by the literature review; (2) Outlines the purpose and significance but may lack clarity or sufficient support from the literature; (3) The purpose and significance are unclear, overstated, or unsupported by the literature. |
+
+
+### Changes Added:  
+- **6. Novelty and Significance:** Added to ensure the introduction explicitly outlines what is novel and why the work is significant, as emphasized in the guidelines.
+- Adjusted **Literature Review and Research Gaps** weighting to 50% for proper balance.  
+
+This rubric now fully incorporates all the detailed guidelines provided for writing a strong introduction.
+
+
 
 ### 3. Methods
 
