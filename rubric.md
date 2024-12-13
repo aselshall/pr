@@ -47,7 +47,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 ### 2. Introduction
 
 - Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
-- To learn more about writing an effective introduction and research paper in general check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
+- For an effective introduction and research paper in general check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
 
 
 | **Criterion**                          | **Evaluation**                                                                                                                                              |
