@@ -4,6 +4,7 @@
 
 ### Guidance
 - Check the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) for your roadmap
+- For general guidance on improving your report, this is a required reading: [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
 - Sections 1–6: These rubric sections focus on the structure and content of your report. Each section in your report must be accurate, detailed, and logically organized to support your research objectives and findings.
 - Sections 7–10: Improving your writing skills is a main learning objective, and grading with respect to writing quality will be strict.
 
@@ -51,8 +52,6 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 ### 2. Introduction
 - Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
-- For general guidance on improving your introduction and report in general,check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
-
 
 | **Criterion**                          | **Evaluation**                                                                                                                                              |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
