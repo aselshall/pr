@@ -35,8 +35,8 @@ This rubric is your guide for developing a high-quality report that meets profes
 ## Core elements of the report
 ### 1. Cover Page
 
-Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)   
-Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
+- Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)   
+- Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
@@ -46,21 +46,19 @@ Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c
 
 ### 2. Introduction
 
-Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
+- Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
+- To learn more about writing an effective introduction and research paper in general check this [Editorial – Why it is a blessing to be rejected: improving science with quality publications](https://doi.org/10.1016/j.ejrh.2020.100717)
+
 
 | **Criterion**                          | **Evaluation**                                                                                                                                              |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **1. Background and context (10%)**    | (1) Provides a well-structured background that clearly sets the context for the research, indicating the field of work and its importance; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
 
 | **2. Literature review (50%)** | (1) A thorough literature review using evidence-based argumentation, identifies key studies, and either clearly states a research gap or highlights unresolved questions or practical applications using more than 12 high-quality, current sources; (2) Conducts a solid review with 10–12 quality sources, uses evidence-based arguments but may occasionally lack clarity or specificity, with minor overstatements or generalizations; (3) Basic review with 5–10 sources, relies on generalizations or weak evidence, and minimally identifies a research gap, unresolved questions, or practical applications. | 
-
 | **3. Relevance and currency of sources (10%)** | (1) Sources are highly relevant, current, with no important sources missing; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
-
 | **4. Definition of the Research Problem (10%)** | (1) The research problem is narrowly focused, clearly defined, and feasible to address using appropriate methods; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
-
 | **5. Research question/hypothesis (10%)** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or stronger connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
-
-| **6. Novelty and significance (10%)** | (1) Accurately outlines the purpose of the research, announces the present study, and explains its significance in a way that is supported by the literature review; (2) Outlines the purpose and significance but may lack clarity or sufficient support from the literature; (3) The purpose and significance are unclear, overstated, or unsupported by the literature. |
+| **6. Novelty and significance statement (10%)** | (1) Accurately outlines the purpose of the research, announces the present study, and explains its significance in a way that is supported by the literature review; (2) Outlines the purpose and significance but may lack clarity or sufficient support from the literature; (3) The purpose and significance are unclear, overstated, or unsupported by the literature. |
 
 
 ### Changes Added:  
