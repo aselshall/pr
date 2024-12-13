@@ -27,12 +27,11 @@ This rubric is your guide for developing a high-quality report that meets profes
   - [10. Language clarity and precision](#10-language-clarity-and-precision)
 
 - **Evaluation**
-  -  Evaluation 1.0: Point dedudction less than or equal 5%
+  -  Evaluation 1.0: Point dedudction none or less than or equal 5%
   -  Evaluation 1.3: Point dedudction less than or equal 10%
   -  Evaluation 2.0: Point dedudction less than or equal 20%
   -  Evaluation 2.3: Point dedudction less than or equal 25%
   -  Evaluation 3.0: Point deduction at least 30%
-
 ## Core elements of the report
 ### 1. Cover Page
 
