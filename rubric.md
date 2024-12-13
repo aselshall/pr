@@ -26,6 +26,12 @@ This rubric is your guide for developing a high-quality report that meets profes
   - [9. Citation and source integration](#9-citation-and-source-integration)
   - [10. Language clarity and precision](#10-language-clarity-and-precision)
 
+- **Evaluation**
+  -  Evaluation 1.0: Point dedudction less than or equal 5%
+  -  Evaluation 1.3: Point dedudction less than or equal 10%
+  -  Evaluation 2.0: Point dedudction less than or equal 20%
+  -  Evaluation 2.3: Point dedudction less than or equal 25%
+  -  Evaluation 3.0: Point deduction at least 30%
 
 ## Core elements of the report
 ### 1. Cover Page
@@ -35,9 +41,9 @@ Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Cover page completeness (5%)**| (1) Plain cover page containing author's name, affiliation, email, and abstract from 150 - 250 words,(2) Cover page has logos, additional unnecessary information, incomplete affiliation information, or abtract not within the words limit (3) Cover page lacks essential information or is incomplete. |
-| **2. Title quality (5%)** | (1) Title is concise, precise, informative, specific, and accurately reflects the research topic; (2) Title is generally clear but may be too broad, not concise, or slightly unclear; (3) Title is non-informative, too broad, or fails to convey the research topic effectively. |
-| **3. Abstract (30%)**| (1) Abstract covering background, objectives, method, results, and "so what" statement at the end (2) Abstract is mostly complete but may lack depth in one or more areas; (3) Abstract is incomplete or fails to cover key aspects adequately. |
+| **1. Cover Page Completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email, and abstract from 150–250 words. (2) Cover page includes most required elements but has unnecessary information (e.g., logos) or an abstract exceeding/falling short of word limits. (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
+| **2. Title Quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
+| **3. Abstract (70%)** | (1) Abstract covers all key components: background, aim, methods, results, and conclusions, with a significance statement at the end. It is concise, structured, and standalone. (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance. (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. | 
 
 ### 2. Introduction
 
