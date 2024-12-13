@@ -40,7 +40,7 @@ Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Cover Page Completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email, and abstract from 150–250 words. (2) Cover page includes most required elements but has unnecessary information (e.g., logos) or an abstract exceeding/falling short of word limits. (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
+| **1. Cover Page Completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email, and abstract on longer than 200 words. (2) Cover page includes most required elements but has unnecessary information (e.g., logos) or an abstract exceeding/falling short of word limits. (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
 | **2. Title Quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
 | **3. Abstract (70%)** | (1) Abstract covers all key components: background, aim, methods, results, and conclusions, with a significance statement at the end. It is concise, structured, and standalone. (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance. (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. | 
 
