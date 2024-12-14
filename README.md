@@ -45,10 +45,10 @@ This schedule is tentative and may be adjusted based on individual student needs
 |------|------------|---------------------------------------------|-------------------------------------------|
 | 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |                                           |
 | 2-4  | Jan 20 – Feb 9 | Progress meeting 1  | Proposal due by Jan 26 at 11:59 pm        |
-| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                           |
+| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                       |
 | 8    | Mar 3 - Mar 9    | Spring break                                |                                           |
-| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |                                           |
-| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 | Interim report due by Apr 1 at 11:59 pm   |
+| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |                                        |
+| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 |   |
 | 15   | Apr 22     | Final presentation (In-class or Egale-X)    | Presentation time TBD                     |
 |      | Apr 24    | Final report due                            | Final report due by 11:59 pm              |
 
@@ -87,17 +87,17 @@ Your participation grade will reflect your professional attitude. For example, s
 | **Responsiveness to feedback (20%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members | Communication is polite but lacks consistent collaboration  | Dismissive, uncooperative behavior, or unprofessional      |
 
-#### Absence and rescheduling
+#### Absence and Rescheduling
 - One unexecused absence will not affect your grade provided that you informed the instructor in advance
 - Rescheduling with credit is only permitted for an execused absence
 - Unexecused absence or rescheduleing without an execused absence results in zero for this meeting
 - Execused absence requires written documentation as outlined in the [Execused Absence Policy](https://aselshall.github.io/pr/#execused-absence-policy)
 
 ### Project Presentation
-Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric discussed in progress meetings. 
+Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric of the [final presentation](https://aselshall.github.io/pr/hw/presentation).
 
 ### Project Report
-Students must complete and report on their independently chosen projects. Required submissions include a interim report, and final report. The interim report is ungraded but will receive instructor feedback to improve the final report. Your reports must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. You need to follow the guidelines and rubric discussed in progress meetings.
+Students must complete and report on their independently chosen projects. Your report must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. Your report must adhere this [rubic](https://aselshall.github.io/pr/hw/rubric). Data falsification involves manipulating real data, while data fabrication involves inventing data that does not exist. Any instance of data falsification or fabrication will result in a grade of zero for the assignment and further actions according to [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
 
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
