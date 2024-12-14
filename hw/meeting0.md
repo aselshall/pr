@@ -4,7 +4,7 @@
 - Revisit your progress in EGN 6457 Research Methods, ensure readiness for EGN 6941 Project, and plan logistics for the rest of the semester
 
 ### Meeting agenda
-- Review the course syllabus: [Link](https://aselshall.github.io/pr/#participation)  
+- Review the [course syllabus](https://aselshall.github.io/pr/#participation)  
 - Discuss next steps and answer any questions
 - Schedule individual progress meetings for the semester
 
