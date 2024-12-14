@@ -151,7 +151,7 @@ Critical thinking skills are assessed at the University, College, and Program le
 
 ## University Policies
 
-## Core Syllabus Policies 
+### Core Syllabus Policies 
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
 ### Generative AI Use
