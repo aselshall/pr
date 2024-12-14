@@ -65,10 +65,10 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 
 ### Assessment Plan
-- Participation: 10%  
+- Participation: 5%  
 - Project Proposal: 5%
 - Project Presentation: 10%
-- Project Report: 75%  
+- Project Report: 80%  
 
 ### Participation
 In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) in week 1, which must be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
