@@ -72,32 +72,34 @@ This schedule is tentative and may be adjusted based on individual student needs
 - Project Report: 75%  
 
 ### Participation
-In [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0) in week 1, which will be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
+In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) in week 1, which must be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
-Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Effective time management is a basic skill and will be considered as part of the participation evaluation. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members.  Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
+Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Additionally, effective time management is part of the participation evaluation. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
 | **Criteria**              | **Good (9-10 Points)**                                         | **Satisfactory (5-8 Points)**                             | **Needs improvement (0- 4 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| **Punctuality (10%)** | Attends meetings on time | Occasionally late  | Frequently late with repeated invalid excuses|
+| **Punctuality (10%)** | Attends all meetings on time | Occasionally late  | Frequently late with repeated invalid excuses|
 | **Preparedness (30%)**          | Consistently comes prepared with clear updates, progress, and specific questions | Sometimes unprepared or provides vague updates              | Rarely prepared, with no meaningful updates or questions       |
 | **Responsiveness to feedback (30%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
 | **Time management (20%)**       | Manages deadlines effectively and requests feedback well in advance | Occasionally late or relies on last-minute feedback requests | Frequently misses deadlines or depends on last-minute help     |
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members | Communication is polite but lacks consistent collaboration  | Dismissive, uncooperative behavior, or unprofessional      |
 
 #### Absence and Rescheduling
-- One unexecused absence will not affect your grade provided that you informed the instructor in advance
+- One unexecused absence will not affect your participation grade provided that you informed the instructor in advance
 - Rescheduling with credit is only permitted for an execused absence
 - Unexecused absence or rescheduleing without an execused absence results in zero for this meeting
 - Execused absence requires written documentation as outlined in the [Execused Absence Policy](https://aselshall.github.io/pr/#execused-absence-policy)
 
 ### Project Proposal
-You need to submit a draft proposal by **Week 1** following  [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0), and incorporate feedback for final approval by your [first progress meeting](https://aselshall.github.io/pr/hw/meeting1). Your proposal needs to adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
+You need to submit a draft proposal by week 1 following  [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0), and incorporate feedback for final approval by your [first progress meeting](https://aselshall.github.io/pr/hw/meeting1). Your proposal needs to adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Project Report
 Students must complete and report on their independently chosen projects. Your report must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including including proper references. Your report must adhere this [rubic](https://aselshall.github.io/pr/hw/rubric). Data falsification involves manipulating real data, while data fabrication involves inventing data that does not exist. Any instance of data falsification or fabrication will result in a grade of zero for the assignment and further actions according to [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
 
 ### Project Presentation
 Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric of the [final presentation](https://aselshall.github.io/pr/hw/presentation).
+
+## Course Policies
 
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
