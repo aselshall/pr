@@ -41,16 +41,16 @@ No textbook required. Materials will be posted on Canvas.
 ## Course Schedule
 This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas. Progress meeting are individual meetings spread over 3 weeks.
 
-| Week | Date       | Activity                                     | Due Date                                  |
+| Week | Date       | Activity                                     | Milestones         |
 |------|------------|---------------------------------------------|-------------------------------------------|
-| 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |                                           |
-| 2-4  | Jan 20 – Feb 9 | Progress meeting 1  | Proposal due by Jan 26 at 11:59 pm        |
-| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                       |
+| 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |  Draft proposal                               |
+| 2-4  | Jan 20 – Feb 9 | Progress meeting 1  | Proposal due by Jan 26 at 11:59 pm        | Final proposal
+| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                       | Draft report
 | 8    | Mar 3 - Mar 9    | Spring break                                |                                           |
-| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |                                        |
-| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 |   |
-| 15   | Apr 22     | Final presentation (In-class or Egale-X)    | Presentation time TBD                     |
-|      | Apr 24    | Final report due                            | Final report due by 11:59 pm              |
+| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |  interim report                                      |
+| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 |   | Draft final repot
+| 15   | Apr 22     | Presentation (In-class or Egale-X) due    | Presentation                      |
+|      | Apr 24    | Final report due                            | Final report              |
 
 
 ## Assessment and Grading
