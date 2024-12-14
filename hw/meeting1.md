@@ -1,10 +1,10 @@
-## [Preparing for the First Progress Meeting](https://aselshall.github.io/pr/hw/meeting1)
+## [Preparing for the first progress meeting](https://aselshall.github.io/pr/hw/meeting1)
 
-#### Meeting Purpose  
+#### Meeting purpose  
 
 - Review your revised proposal, set expectations, and agree on the tasks to achieve by our second progress meeting.
 
-#### Meeting Agenda  
+#### Meeting agenda  
 
 - Review your revised proposal  
 - Discuss the [report rubric](https://aselshall.github.io/pr/hw/rubric) and set expectations for the rest of the semester  
@@ -28,6 +28,6 @@ For productive discussion, before our first progress meeting, you are required t
 
 Progress meetings will be graded according to the rubric in the [syllabus](https://aselshall.github.io/pr/#participation).  
 
-#### Next Step  
+#### Next step  
 
 This meeting ensures you clearly understand the instructor's expectations and can plan your progress accordingly for our [second progress meeting](https://aselshall.github.io/pr/hw/meeting2).  
