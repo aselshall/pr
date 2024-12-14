@@ -100,7 +100,7 @@ You need to submit a draft proposal by week 1 following  [the kickoff meeting gu
 In-person final presentations are scheduled for **April 22 (6:00–7:30 pm)**. While these date and time are fixed, they may be subject to change due to unforeseen circumstances. The presentation location will be announced during the semester. Alternatively, you may present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentation must be well-organized, professional, and include visual aids. Your presentation must adhere to the [final presentation guidelines and rubric](https://aselshall.github.io/pr/hw/presentation).
 
 ### Project Report  
-Students are required to complete and document their independently chosen projects in a professional and polished report. The report must follow and adhere to this [rubric](https://aselshall.github.io/pr/hw/rubric).  
+Students are required to complete their projects and document their independent work in a professional and polished report. The report must follow and adhere to this [rubric](https://aselshall.github.io/pr/hw/rubric).  
 
 ## Course Policies
 
