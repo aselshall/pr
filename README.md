@@ -39,18 +39,18 @@ By the end of this course, students will be able to:
 No textbook required. Materials will be posted on Canvas.
 
 ## Course Schedule
-This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas. Progress meeting are individual meetings spread over 3 weeks.
+This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas. Progress meetings are one-on-one meetings spread over 3 weeks.
 
-| Week | Date       | Activity                                     | Milestones         |
-|------|------------|---------------------------------------------|-------------------------------------------|
-| 1    | Jan 13 - Jan 19      | Introductory meeting (All students)         |  Draft proposal                               |
-| 2-4  | Jan 20 – Feb 9 | Progress meeting 1  | Proposal due by Jan 26 at 11:59 pm        | Final proposal
-| 5-7  | Feb 10 – Mar 2 | Progress meeting 2 |                                       | Draft report
-| 8    | Mar 3 - Mar 9    | Spring break                                |                                           |
-| 9-11 | Mar 10 – Mar 30 | Progress meeting 3 |  interim report                                      |
-| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 |   | Draft final repot
-| 15   | Apr 22     | Presentation (In-class or Egale-X) due    | Presentation                      |
-|      | Apr 24    | Final report due                            | Final report              |
+| Week  | Date           | Activity                                | Milestone                         |
+|-------|----------------|-----------------------------------------|-----------------------------------|
+| 1     | Jan 13 - Jan 19 | Kickoff meeting (all students)         | Draft proposal                   |
+| 2-4   | Jan 20 – Feb 9  | Progress meeting 1 (individual meeting) | Final proposal                   |
+| 5-7   | Feb 10 – Mar 2  | Progress meeting 2 (individual meeting) | Draft report                     |
+| 8     | Mar 3 - Mar 9   | Spring break                           |                                   |
+| 9-11  | Mar 10 – Mar 30 | Progress meeting 3 (individual meeting) | Interim report                   |
+| 12-14 | Mar 31 – Apr 21 | Progress meeting 4 (individual meeting) | Draft final report               |
+| 15    | Apr 22          | Presentation (In-class or Eagle-X) due | Presentation                     |
+|       | Apr 24          | Final report due                       | Final report                     |
 
 
 ## Assessment and Grading
@@ -68,21 +68,25 @@ This schedule is tentative and may be adjusted based on individual student needs
 ### Assessment Plan
 - Participation: 10%  
 - Project Proposal: 5%
-- Project Presentation: 10%  
+- Project Presentation: 10%
 - Project Report: 75%  
 
 ### Participation
 In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) in week 1, which must be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
-Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Additionally, effective time management is part of the participation evaluation. For example, students who request additional report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
+Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Additionally, effective time management is part of the participation evaluation. For example, students who request additional final report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
-| **Criteria**              | **Good (9-10 Points)**                                         | **Satisfactory (5-8 Points)**                             | **Needs improvement (0- 4 Points)**                           |
+| **Criteria**              | **Good (9-10 Points)**                                         | **Satisfactory (5-8 Points)**                             | **Needs Improvement (0-4 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| **Punctuality (10%)** | Attends all meetings on time | Occasionally late  | Frequently late with repeated invalid excuses|
-| **Preparedness (30%)**          | Consistently comes prepared with clear updates, progress, and specific questions | Sometimes unprepared or provides vague updates              | Rarely prepared, with no meaningful updates or questions       |
-| **Responsiveness to feedback (30%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
-| **Time management (20%)**       | Manages deadlines effectively and requests feedback well in advance | Occasionally late or relies on last-minute feedback requests | Frequently misses deadlines or depends on last-minute help     |
-| **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members | Communication is polite but lacks consistent collaboration  | Dismissive, uncooperative behavior, or unprofessional      |
+| **Punctuality (5%)**       | Attends all meetings on time, ready to begin                    | Occasionally late but provides valid reasons               | Frequently late with repeated invalid excuses                 |
+| **Preparedness (35%)**     | Consistently comes prepared with clear updates, progress, and specific questions | Sometimes unprepared or provides vague updates              | Rarely prepared, with no meaningful updates or questions       |
+| **Responsiveness to feedback (35%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
+| **Time management (15%)**  | Manages deadlines effectively and requests feedback well in advance | Occasionally late or relies on last-minute feedback requests | Frequently misses deadlines or depends on last-minute help     |
+| **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members, and responds promptly to emails/requests| Communication is polite but lacks consistent collaboration | Dismissive, uncooperative, or unprofessional behavior          |
+
+#### Notes on the rubric
+- Preparedness and responsiveness to feedback (70%) are critical for progress and improvement
+- If punctuality becomes a recurring issue, it will be combined with time management
 
 #### Absence and Rescheduling
 - One unexecused absence will not affect your participation grade provided that you informed the instructor in advance
@@ -93,13 +97,16 @@ Your participation grade will reflect your professional attitude. You are expect
 ### Project Proposal
 You need to submit a draft proposal by week 1 following  [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0), and incorporate feedback for final approval by your [first progress meeting](https://aselshall.github.io/pr/hw/meeting1). Your proposal needs to adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
-### Project Report
-Students must complete and report on their independently chosen projects. Your report must be professional, polished, and free of errors. You must adhere to citation and plagiarism policies including proper references. Your report must adhere to this [rubic](https://aselshall.github.io/pr/hw/rubric). Any instance of data falsification or fabrication will result in a grade of zero for the assignment and further actions according to [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf). Data falsification involves manipulating real data, while data fabrication involves inventing data that does not exist. 
-
 ### Project Presentation
-Final presentations will take place on **April 22 (6:00–7:30 pm)** or as scheduled during class, and location will be announced once scheduled. Alternatively, you can present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentatin should be well-organized, professional, with visual aids. Your presentation should follow the guidelines and rubric of the [final presentation](https://aselshall.github.io/pr/hw/presentation).
+In-person final presentations are scheduled for **April 22 (6:00–7:30 pm)**. While these date and time are fixed, they may be subject to change due to unforeseen circumstances. The presentation location will be announced during the semester. Alternatively, you may present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted. Your presentation must be well-organized, professional, and include visual aids. Your presentation must adhere to the [final presentation guidelines and rubric](https://aselshall.github.io/pr/hw/presentation).
+
+### Project Report  
+Students are required to complete and document their independently chosen projects in a professional and polished report. The report must follow and adhere to this [rubric](https://aselshall.github.io/pr/hw/rubric).  
 
 ## Course Policies
+
+### Academic Integrity
+Any instance of data falsification or fabrication will result in a grade of zero for your report and further actions as per [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf). Data falsification involves manipulating real data to misrepresent results. Data fabrication involves inventing data that does not exist. Also, your proposal, report and presentation must adhere to citation and plagiarism policies, including proper referencing practices
 
 ### Late Assignment Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
