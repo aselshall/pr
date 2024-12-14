@@ -1,9 +1,9 @@
-## [Preparing for the Kickoff Meeting](https://aselshall.github.io/pr/hw/meeting0)
+## [Preparing for the kickoff meeting](https://aselshall.github.io/pr/hw/meeting0)
 
-#### Meeting Purpose
+#### Meeting purpose
 - Revisit your progress in EGN 6457 Research Methods, ensure readiness for EGN 6941 Project, and plan ahead for the rest of the semester
 
-#### Meeting Agenda
+#### Meeting agenda
 - Review the course syllabus: [Link](https://aselshall.github.io/pr/#participation)  
 - Discuss next steps and answer any questions
 - Schedule individual progress meetings for the semester
@@ -17,5 +17,5 @@ For productive meeting, before our kickoff meeting, you are required to complete
 
 If you need information about progress meetings, refer to the [syllabus](https://aselshall.github.io/pr).
 
-#### Next Step
+#### Next step
 Following the meeting, you will have a clear understanding of the course structure and general expectations, so that you can plan accordingly for our [first progress meeting](https://aselshall.github.io/pr/hw/meeting1).
