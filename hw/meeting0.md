@@ -13,6 +13,6 @@ Before our first meeting, complete the following:
 1. Review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) to reflect on what you accomplished in the Research Methods course and understand what lies ahead in the Project course
 2. Create a folder with your last name on our Teams channel
 3. Upload proposal from the Research Methods course in word format (not PDF or LaTeX) on your Team's folder
-4. Use this [When2Meet link](https://www.when2meet.com/?27997747-xq2T6) to mark your availability during the semester to schedule progress meetings
+4. Use this [When2Meet link](https://www.when2meet.com/?27997747-xq2T6) to mark your availability during the semester for the purpose of scheduling progress meetings
 
 If you need information about progress meetings, refer to the [syllabus](https://aselshall.github.io/pr).
