@@ -5,7 +5,7 @@
 - Review your revised proposal, set expectations, and agree on the tasks to achieve by our second progress meeting.
 
 ### Meeting agenda  
-
+- Review action items from [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0)
 - Review your revised proposal  
 - Discuss the [report rubric](https://aselshall.github.io/pr/hw/rubric) and set expectations for the rest of the semester  
 - Agree on next steps  
