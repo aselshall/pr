@@ -1,4 +1,4 @@
-## Project Proposal
+## [Project Proposal](https://aselshall.github.io/pr/hw/proposal)
 
 ### Guidelines
 - Your proposal must adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw)
