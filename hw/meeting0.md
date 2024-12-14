@@ -9,7 +9,7 @@
 - Schedule individual progress meetings for the semester
 
 ### Instructions
-For productive meeting, before our kickoff meeting, you are required to complete the following:  
+For a productive meeting, before our kickoff meeting, you are required to complete the following:  
 1. Review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) to reflect on what you accomplished in the Research Methods course and understand what lies ahead in the Project course
 2. Create a folder with your last name on our Teams channel
 3. Upload proposal from the Research Methods course in word format (not PDF or LaTeX) on your Team's folder
