@@ -1,18 +1,22 @@
 ## [Project Presentation](https://aselshall.github.io/pr/hw/presentation)
 
-#### Overview 
-Your presentatin should be well-organized, professional, with visual aids. 
-- You can present your work in-class or at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit.
-- Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted.
-- If you want to present at Eagle X, you need to check the abtract deadline. For detail, please contact Jessica Rhea at jrhea@fgcu.edu .
+### Overview 
+- Your presentatin should be well-organized, professional, with visual aids
+- You can present your work in-class or at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit
 
-These are the instructions for in-class presentation. 
+### Eagle X Presentation
+- You can present your work at [Eagle X](https://www.fgcu.edu/eaglex) on Apr 22 for 50 extra points toward your presentation grade
+- Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted
+- If you want to present at Eagle X, you need to check the abtract deadline
+- For detail, please contact Jessica Rhea at jrhea@fgcu.edu 
+
+### In-class Presentation 
 
 #### Location
 - TBD 
 
 #### Date 
-- Apr-22 from 6:00 pm to 7:30 pm 
+- Apr 22 from 6:00 pm to 7:30 pm 
 
 #### Time  
 - Total Time: 15 minutes per presentation
