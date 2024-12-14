@@ -52,18 +52,17 @@ This schedule is tentative and may be adjusted based on individual student needs
 | 15    | Apr 22          | Presentation due at Eagle-X (morning) or in-class (6:00 pm - 7:30 pm)| Presentation |
 |       | Apr 24          | Final report due by 11:59 pm           | Final report                     |
 
-
 ## Assessment and Grading
 
 ### Grading Scale
 
-| Grade | Percentage   | Grade | Percentage   |
-|-------|--------------|-------|--------------|
-| A     | 94–100%      |  C+   | 77–79.99%    |  
-| A-    | 90–93.99%    |  C    | 74–76.99%     |
-| B+    | 87–89.99%    |  D    | 64–66.99%     |
-| B     | 84–86.99%    | F    | Below 60%    |
-| B-    | 80–83.99%    |       |            |
+| Grade | Percentage   | Grade | Percentage   | Grade | Percentage   |
+|-------|--------------|-------|--------------| -------|--------------| 
+|  A    | 94–100%      |  A-    | 90–93.99%     |  B+   | 87–89.99%   |  
+|  B    | 84–86.99%    |  B-    | 80–83.99%     |  C+   | 77–79.99%   |  
+|  C    | 74–76.99%    |  C-    | 70–73.99%     |  D+   | 67–69.99%   |
+|  D    | 64–66.99%    |  D-    | 60–63.99%     |  F   | Below 60%   |
+
 
 ### Assessment Plan
 - Participation: 10%  
