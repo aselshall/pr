@@ -9,7 +9,7 @@ Your presentatin should be well-organized, professional, with visual aids.
 These are the instructions for in-class presentation. 
 
 #### Location
-= TBD 
+- TBD 
 
 #### Date 
 - Apr-22 from 6:00 pm to 7:30 pm 
