@@ -1,14 +1,18 @@
-## [Participation Assignment 1: Preparing for the Introductory Meeting](https://aselshall.github.io/pr/hw/meeting0)
+## [Preparing for the Introductory Meeting](https://aselshall.github.io/pr/hw/meeting0)
 
-#### Purpose 
-- To revisit your progress in EGN 6457 Research Methods course and ensure readiness for the EGN 6941 Project course
-   
+#### Meeting Purpose
+- Revisit your progress in EGN 6457 Research Methods, ensure readiness for EGN 6941 Project, and plan ahead for the rest of the semester
+
+#### Meeting Agenda
+- Review the course syllabus: [Link](https://aselshall.github.io/pr/#participation)  
+- Discuss next steps and answer any questions
+- Schedule individual progress meetings for the semester
+
 #### Instructions
+Before our first meeting, complete the following:  
+1. Review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) to reflect on what you accomplished in the Research Methods course and understand what lies ahead in the Project course
+2. Create a folder with your last name on our Teams channel
+3. Upload proposal from the Research Methods course in word format (not PDF or LaTeX) on your Team's folder
+4. Use this [When2Meet link](https://www.when2meet.com/?27997747-xq2T6) to mark your availability during the semester to schedule progress meetings
 
-Before our first meeting:
-- Review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) to recall what you accomplished in the Research Methods course and what lies ahead in the Project course
-- Create a folder with your last name on our Teams channel
-- Upload your proposal from the Research Methods course in Word format (not PDF or LaTeX)
-
-#### Rubric 
-- The Check the syllabus for participation evaluation: [Link](For https://aselshall.github.io/pr/#participation)
+If you need information about progress meetings, refer to the [syllabus](https://aselshall.github.io/pr).
