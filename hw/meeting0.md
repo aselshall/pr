@@ -16,3 +16,6 @@ Before our first meeting, complete the following:
 4. Use this [When2Meet link](https://www.when2meet.com/?27997747-xq2T6) to mark your availability during the semester for the purpose of scheduling progress meetings
 
 If you need information about progress meetings, refer to the [syllabus](https://aselshall.github.io/pr).
+
+#### Next Step
+Following the meeting, you will have a clear understanding of the course structure and general expectations, so that you can plan accordingly for our [first progress meeting](https://aselshall.github.io/pr/hw/meeting1).
