@@ -4,7 +4,7 @@
 - Review progress since the third meeting, refine your draft final report, and prepare for the final presentation and report submission
 
 ### Meeting agenda  
-- Review progress made on tasks identified during the third progress meeting
+- Review progress made on tasks identified during the [third progress meeting](https://aselshall.github.io/pr/hw/meeting3)
 - Discuss feedback on your draft final report and address any required revisions
 - Plan and finalize key components for the final presentation
 - Confirm the next steps leading up to the final report submission  
