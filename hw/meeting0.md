@@ -1,4 +1,4 @@
-## [Preparing for the Introductory Meeting](https://aselshall.github.io/pr/hw/meeting0)
+## [Preparing for the Kickoff Meeting](https://aselshall.github.io/pr/hw/meeting0)
 
 #### Meeting Purpose
 - Revisit your progress in EGN 6457 Research Methods, ensure readiness for EGN 6941 Project, and plan ahead for the rest of the semester
@@ -9,7 +9,7 @@
 - Schedule individual progress meetings for the semester
 
 #### Instructions
-Before our first meeting, complete the following:  
+For productive meeting, before our kickoff meeting, you are required to complete the following:  
 1. Review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture) to reflect on what you accomplished in the Research Methods course and understand what lies ahead in the Project course
 2. Create a folder with your last name on our Teams channel
 3. Upload proposal from the Research Methods course in word format (not PDF or LaTeX) on your Team's folder
