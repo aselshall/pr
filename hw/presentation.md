@@ -12,11 +12,11 @@
 
 ### In-class Presentation 
 
-#### Location
-- In-person and location TBD 
-
 #### Date 
 - Apr 22 from 6:00 pm to 7:30 pm 
+
+#### Location
+- In-person and location TBD 
 
 #### Time  
 - Total Time: 15 minutes per presentation
