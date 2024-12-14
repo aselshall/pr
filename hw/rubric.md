@@ -1,4 +1,4 @@
-## [Rubric](https://aselshall.github.io/pr/rubric)
+## [Rubric](https://aselshall.github.io/pr/hw/rubric)
 
 ## Overview
 
