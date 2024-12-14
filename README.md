@@ -59,11 +59,11 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 | Grade | Percentage   | Grade | Percentage   |
 |-------|--------------|-------|--------------|
-| A     | 94–100%      | B-    | 80–83.99%    |  
-| A-    | 90–93.99%    | C+    | 77–79.99%    |
-| B+    | 87–89.99%    | C     | 74–76.99%    |
-| B     | 84–86.99%    | D     | 64–66.99%    |
-| F     | Below 60%    |       |              |
+| A     | 94–100%      |  C+   | 77–79.99%    |  
+| A-    | 90–93.99%    |  C    | 74–76.99%     |
+| B+    | 87–89.99%    |  D    | 64–66.99%     |
+| B     | 84–86.99%    | F    | Below 60%    |
+| B-    | 80–83.99%    |       |            |
 
 ### Assessment Plan
 - Participation: 10%  
