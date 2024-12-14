@@ -13,7 +13,7 @@
 ### In-class Presentation 
 
 #### Location
-- TBD 
+- In-person and location TBD 
 
 #### Date 
 - Apr 22 from 6:00 pm to 7:30 pm 
