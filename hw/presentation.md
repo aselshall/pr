@@ -5,7 +5,7 @@
 - You can present your work in-class or at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit
 
 ### Eagle X Presentation
-- You can present your work at [Eagle X](https://www.fgcu.edu/eaglex) on Apr 22 for 30 extra points toward your presentation grade
+- You can present your work at [Eagle X](https://www.fgcu.edu/eaglex) on Apr 22 for 20 extra points toward your presentation grade
 - Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted
 - If you want to present at Eagle X, you need to check the abtract deadline
 - For detail, please contact Jessica Rhea at jrhea@fgcu.edu 
