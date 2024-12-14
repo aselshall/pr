@@ -4,7 +4,7 @@
 - Review progress since the second meeting, refine deliverables, and ensure you are on track to complete the interim report and subsequent project milestones
 
 ### Meeting agenda  
-- Review progress made on tasks identified during the second progress meeting  
+- Review progress made on tasks identified during the [second progress meeting](https://aselshall.github.io/pr/hw/meeting2)
 - Discuss your draft interim report and ensure it meets expectations  
 - Address challenges encountered and brainstorm solutions    
 - Plan the next set of tasks and milestones leading up to the interim report and beyond  
