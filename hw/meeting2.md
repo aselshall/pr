@@ -3,7 +3,8 @@
 ### Meeting purpose  
 - Review progress since the first meeting, refine deliverables, and address challenges to stay on track with the project timeline
 
-### Meeting agenda 
+### Meeting agenda
+- Review progress made on tasks identified during the [first progress meeting](https://aselshall.github.io/pr/hw/meeting1)
 - Go over your report to ensure that it meets expecations
 - Review progress made on tasks identified during the first progress meeting
 - Discuss deliverables and any updates to the project proposal  
