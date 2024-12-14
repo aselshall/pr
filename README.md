@@ -49,7 +49,7 @@ This schedule is tentative and may be adjusted based on individual student needs
 | 8     | Mar 3 - Mar 9   | Spring break                           |                                   |
 | 9-11  | Mar 10 – Mar 30 | Progress meeting 3 (individual meeting) | Interim report                   |
 | 12-14 | Mar 31 – Apr 21 | Progress meeting 4 (individual meeting) | Draft final report               |
-| 15    | Apr 22          | Presentation (In-class or Eagle-X) due | Presentation                     |
+| 15    | Apr 22          | Presentation (in-class or Eagle-X) due | Presentation                     |
 |       | Apr 24          | Final report due                       | Final report                     |
 
 
