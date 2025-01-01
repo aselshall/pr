@@ -32,7 +32,7 @@ To ensure a productive discussion, before your second progress meeting, you are 
    - Adjust your project timeline as needed to account for progress made and unforeseen delays
    - Highlight key tasks and milestones to achieve by the third progress meeting  
 
-### Rubric
+### Grading
 - Progress meetings will be graded according to the rubric in the [syllabus](https://aselshall.github.io/pr/#participation).
 - Ensure that you demonstrate progress, address challenges effectively, and actively engage in planning the next steps.  
 - To receive credit, after each meeting, use the rubric to grade yourself and upload your grade on Canvas within 24 hours. 
