@@ -30,7 +30,7 @@ To ensure a productive discussion, before your fourth progress meeting, you are 
    - Ensure your timeline reflects all remaining tasks, including finalizing the report and preparing for the presentation  
    - Highlight key milestones for the final stages of the project
 
-### Rubric  
+### Grading  
 - Progress meetings will be graded according to the rubric in the [syllabus](https://aselshall.github.io/pr/#participation). 
 - Ensure that you demonstrate progress, address challenges effectively, and actively engage in planning the next steps if any. 
 - To receive credit, after each meeting, use the rubric to grade yourself and upload your grade on Canvas within 24 hours. 
