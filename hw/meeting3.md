@@ -29,9 +29,11 @@ To ensure a productive discussion, before your third progress meeting, you are r
    - Revise your project timeline to reflect progress and account for remaining tasks
    - Highlight key tasks and milestones leading up to the submission of the interim report and subsequent project phases
 
-### Rubric  
-
-Progress meetings will be graded according to the rubric in the [syllabus](https://aselshall.github.io/pr/#participation). Ensure that you demonstrate progress, address challenges effectively, and actively engage in planning the next steps.  
+### Grading  
+- Progress meetings will be graded according to the rubric in the [syllabus](https://aselshall.github.io/pr/#participation).
+- Ensure that you demonstrate progress, address challenges effectively, and actively engage in planning the next steps.  
+- To receive credit, after each meeting, use the rubric to grade yourself and upload your grade on Canvas within 24 hours. 
+- The instructor’s evaluation will serve as the final grade, but your self-assessment will be reviewed to provide feedback and address any discrepancies.
 
 ### Next step  
 
