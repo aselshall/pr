@@ -1,4 +1,4 @@
-## [Preparing for the kickoff meeting](https://aselshall.github.io/pr/hw/meeting0)
+## [Kickoff meeting](https://aselshall.github.io/pr/hw/meeting0)
 
 ### Meeting purpose
 - Revisit your progress in EGN 6457 Research Methods, ensure readiness for EGN 6941 Project, and plan logistics for the rest of the semester
