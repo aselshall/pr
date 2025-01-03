@@ -11,10 +11,15 @@
 
 ### Instructions
 For a productive meeting, before our kickoff meeting, you are required to complete the following:  
-1.  To reflect on your progress in the EGN 6457 Research Methods course and familiarize yourself with the remaining steps in the EGN 6941 Project course, review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture)
+1. For the purpose of scheduling progress meetings, mark your availability during the semester using this [When2Meet link](https://www.when2meet.com/?28130274-6d6lg)
 2. Create a folder with your last name on our Teams channel: [Link to channel](https://teams.microsoft.com/l/channel/19%3AJHuITMwcgjg_bGMf9nNXFT15QiWcs-dJ4OvgUvjEJkk1%40thread.tacv2/General?groupId=732fceb9-a227-4950-a33d-851b1be2f09e)
-3. On your Team's folder, upload your proposal from the Research Methods course in word format (not PDF or LaTeX) 
-5. For the purpose of scheduling progress meetings, mark your availability during the semester using this [When2Meet link](https://www.when2meet.com/?28130274-6d6lg)
+3. To reflect on your progress in the EGN 6457 Research Methods course and familiarize yourself with the remaining steps in the EGN 6941 Project course, review the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture)
+
+After the kickoff meeting
+
+4. Revise your proposal given feedback from Research Methods
+5. Upload the revised proposal on our Team's folder
+6. Prepare for our [first progress meeting](https://aselshall.github.io/pr/hw/meeting1).
 
 If you need information about progress meetings, refer to the [syllabus](https://aselshall.github.io/pr).
 
