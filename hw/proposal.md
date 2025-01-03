@@ -1,8 +1,14 @@
 ## [Project Proposal](https://aselshall.github.io/pr/hw/proposal)
 
-### Guidelines
-- Your proposal must adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw)
-- Submit a draft proposal on Teams by week 1 following [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0)
-- Revise your draft and incorporate feedback for final approval by your [first progress meeting](https://aselshall.github.io/pr/hw/meeting1)
-- After approval, upload your approved proposal from Teams to Canvas for grading purposes
-- Grading will follow a "meets expectations" (full credit) or "does not meet expectations" (no credit) , with potential deductions for failing to address review comments from the instructor
+Proposal Submission Steps:
+1. **Prepare Proposal** – Follow the [proposal guidelines](https://aselshall.github.io/rm/hw/proposal-hw).  
+2. **Submit Draft** – Upload your draft to Teams by Week 1 after the kickoff meeting. See [meeting guidelines](https://aselshall.github.io/pr/hw/meeting0).  
+3. **Instructor Review** – The instructor will review and provide comments.  
+4. **Revise Proposal** – Address comments and revise your proposal by your first progress meeting. See [progress meeting guidelines](https://aselshall.github.io/pr/hw/meeting1).  
+5. **Progress Meeting** – Discuss your revised proposal for final approval during the meeting.  
+6. **Final Submission** – Refine your proposal based on the meeting and upload the final version to this assignment on Canvas for grading and approval.  
+
+**Grading:**  
+- **Full Credit** – Meets expectations.  
+- **No Credit** – Does not meet expectations.  
+- Deductions may apply if instructor comments are not fully addressed.
