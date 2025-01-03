@@ -43,7 +43,7 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 | Week  | Date           | Activity                                | Milestone                         |
 |-------|----------------|-----------------------------------------|-----------------------------------|
-| 1     | Jan 13 - Jan 19 | [Kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) (group meeting)         | Draft proposal                   |
+| 1     | Jan 6 - Jan 19 | [Kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) (group meeting)         | Draft proposal                   |
 | 2-4   | Jan 20 – Feb 9  | [Progress meeting 1: Discuss final proposal](https://aselshall.github.io/pr/hw/meeting1) (individual meeting) | Final proposal                   |
 | 5-7   | Feb 10 – Mar 2  | [Progress meeting 2: Discuss draft report](https://aselshall.github.io/pr/hw/meeting2) (individual meeting) | Draft report                     |
 | 8     | Mar 3 - Mar 9   | Spring break                           |                                   |
