@@ -14,8 +14,8 @@
 ### Instructions  
 
 For productive discussion, before our first progress meeting, you are required to complete the following:  
-1. Revise your proposal based on feedback from the instructor  
-2. Read the project rubric thoroughly  
+1. Revise your proposal following these [instructions](https://aselshall.github.io/pr/hw/proposal)
+2. Read the [rubric of the project report](https://aselshall.github.io/pr/hw/rubric) thoroughly  
    - Identify one or two criteria where you feel clearer guidance is needed  
    - Identify one or two criteria where you think will be the most challenging to meet  
 3. Be ready to discuss the following with the instructor during your meeting:  
