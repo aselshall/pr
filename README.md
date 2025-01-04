@@ -1,7 +1,7 @@
 # [EGN 6941 Project](https://aselshall.github.io/pr)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-EGN 6941 Project, Spring 2025
+EGN 6941 Project, Spring 2025   
 Last updated: Jan 3, 2025
 
 ### Course Information
