@@ -102,7 +102,8 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 - Ensure that your discussion and conclusions meet these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249907)
 - Make study limitations a separate section
-- Make Conclusions a separte section and future perspectives at the end of your conclusions section
+- Make Conclusions a separte section
+- Add future perspectives at the end of your conclusions section
 
 | **Criterion**                          | **Evaluation**                                                                                                                                              |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
