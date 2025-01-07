@@ -53,6 +53,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 ### 2. Abstract
 - Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **1. Key Components (35%)** | (1) Abstract covers all key components: background, aim or problem statement, methods, results, and conclusions, with a significance statement (so what statement) at the end.  <br> (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance.  <br> (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. |
