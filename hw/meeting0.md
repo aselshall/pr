@@ -7,7 +7,7 @@
 - Go over the [course syllabus](https://aselshall.github.io/pr/#participation)  
 - Discuss immediate next steps 
 - Schedule individual progress meetings for the semester
-- Answer any questions and answer any questions as needed
+- Answer any questions
 
 ### Instructions
 For a productive meeting, before our kickoff meeting, you are required to complete the following:  
