@@ -50,7 +50,7 @@ This schedule is tentative and may be adjusted based on individual student needs
 | 9     | Mar 3 - Mar 9   | Spring break                           |                                   |
 | 10-12  | Mar 10 – Mar 30 | [Progress meeting 3: Discuss interim report](https://aselshall.github.io/pr/hw/meeting3) (individual meeting) | Interim report                   |
 | 13-15 | Mar 31 – Apr 21 | [Progress meeting 4: Discuss draft final report](https://aselshall.github.io/pr/hw/meeting4) (individual meeting) | Draft final report               |
-| 16    | Apr 22          | [Presentation](https://aselshall.github.io/pr/hw/presentation) due at Eagle-X (morning) or in-class (6:00 pm - 7:30 pm)| Presentation |
+| 16    | Apr 22          | [Presentation](https://aselshall.github.io/pr/hw/presentation) due at Eagle-X (8:00 am - 1:30 pm) or in-class (6:00 pm - 7:30 pm)| Presentation |
 | 16    | Apr 24          | [Final report](https://aselshall.github.io/pr/hw/rubric) due by 11:59 pm           | Final report                     |
 
 ## Assessment and Grading
