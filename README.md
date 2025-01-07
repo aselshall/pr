@@ -78,7 +78,7 @@ Your participation grade will reflect your professional attitude. You are expect
 
 | **Criteria**              | **Good (9-10 Points)**                                         | **Satisfactory (5-8 Points)**                             | **Needs Improvement (0-4 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
-| **Punctuality (5%)**       | Attends all meetings on time, ready to begin                    | Occasionally late but provides valid reasons               | Frequently late with repeated invalid excuses                 |
+| **Punctuality (5%)**       | Attends  meeting on time, ready to begin                    | Late but provides valid reasons               |  Late with repeated invalid excuses                 |
 | **Preparedness (35%)**     | Consistently comes prepared with clear updates, progress, and specific questions | Sometimes unprepared or provides vague updates              | Rarely prepared, with no meaningful updates or questions       |
 | **Responsiveness to feedback (35%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
 | **Time management (15%)**  | Manages deadlines effectively and requests feedback well in advance | Occasionally late or relies on last-minute feedback requests | Frequently misses deadlines or depends on last-minute help     |
