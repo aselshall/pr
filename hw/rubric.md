@@ -20,19 +20,20 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 ### Section breakdown
 
-- **Sections 1-6** focus on the core elements of your report (90 points):
-  - [1. Cover page and abstract (5 points)](#1-cover-page-and-abstract)
-  - [2. Introduction (15 points)](#2-introduction)
-  - [3. Methods (15 points)](#3-methods)
-  - [4. Results (30 points)](#4-results)
-  - [5. Discussion and conclusions (20 points)](#5-discussion-and-conclusions)
-  - [6. Other required sections (5 points)](#6-other-required-sections)
+- **Sections 1-7** focus on the core elements of your report (90 points):
+  - [1. Cover page (5 points)](#1-cover-page)
+  - [2. Abstract (5 points)](#2-abstract)
+  - [3. Introduction (15 points)](#3-introduction)
+  - [4. Methods (15 points)](#4-methods)
+  - [5. Results (30 points)](#5-results)
+  - [6. Discussion and conclusions (20 points)](#6-discussion-and-conclusions)
+  - [7. Other required sections (5 points)](#7-other-required-sections)
 
-- **Sections 7-10** emphasize writing quality (10 points):
-  - [7. Cohesiveness of writing](#7-cohesiveness-of-writing)
-  - [8. Depth, clarity, and rigorousness of writing](#8-depth-clarity-and-rigorousness-of-writing)
-  - [9. Citation and source integration](#9-citation-and-source-integration)
-  - [10. Language clarity and precision](#10-language-clarity-and-precision)
+- **Sections 8-11** emphasize writing quality (10 points):
+  - [8. Cohesiveness of writing](#8-cohesiveness-of-writing)
+  - [9. Depth, clarity, and rigorousness of writing](#9-depth-clarity-and-rigorousness-of-writing)
+  - [10. Citation and source integration](#10-citation-and-source-integration)
+  - [11. Language clarity and precision](#11-language-clarity-and-precision)
 
 - **Evaluation**
   -  Evaluation 1.0: Point dedudction none or less than or equal 5%
@@ -42,17 +43,23 @@ This rubric is your guide for developing a high-quality report that meets profes
   -  Evaluation 3.0: Point deduction at least 30%
     
 ## Core elements of the report
-### 1. Cover Page and Abstract
+### 1. Cover Page
 - Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)   
-- Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **1. Cover page completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email. (2) Cover page includes most required elements but has unnecessary information (e.g., logos). (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
 | **2. Title quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
-| **3. Abstract (70%)** | (1) Abstract covers all key components: background, aim or problem statement, methods, results, and conclusions, with a significance statement at the end; abstract is concise, cohesive, accurate, structured, and standalone; abstract on longer than 250 words. (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance; abstract exceeding/falling short of word limits. (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. | 
 
-### 2. Introduction
+### 2. Abstract
+- Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
+| **Criterion** | **Evaluation** |
+|-----------------|-----------------|
+| **1. Key Components (35%)** | (1) Abstract covers all key components: background, aim or problem statement, methods, results, and conclusions, with a significance statement (so what statement) at the end.  <br> (2) Abstract is mostly complete but lacks depth in one or more components, such as aim, results, or significance.  <br> (3) Abstract is incomplete, disorganized, or missing key components such as methods or significance. |
+| **2. Effectiveness (35%)** | (1) Abstract is concise, cohesive, accurate, well-structured, and can stand alone as a summary of the work.  <br> (2) Abstract is generally clear and structured but may lack some cohesion, minor inaccuracies, or excessive jargon.  <br> (3) Abstract is unclear, verbose, or disjointed, and cannot effectively summarize the work on its own. | 
+| **3. Word Count (30%)** | (1) Abstract is no longer than 250 words.  <br> (2) Abstract exceeds word limits by up to 10%.  <br> (3) Abstract significantly exceeds the required word limit (more than 10% deviation). | 
+
+### 3. Introduction
 - Ensure that your introduction section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249903)
 
 | **Criterion**                          | **Evaluation**                                                                                                                                              |
@@ -64,7 +71,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 | **5. Research question (10%)** | (1) Research question or hypothesis clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or stronger connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
 | **[6. Novelty statement (10%)](https://doi.org/10.1016/j.ejrh.2020.100717)** | (1) Accurately outlines the purpose of the research, announces the present study, and explains its novelty or significance in a way that is supported by the literature review; (2) Outlines the purpose and significance but may lack clarity or sufficient support from the literature; (3) The purpose and significance are unclear, overstated, or unsupported by the literature. |
 
-### 3. Methods
+### 4. Methods
 - Ensure that your method section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249905)
 
 | **Criterion**                           | **Evaluation**                                                                                                                                              |
@@ -76,7 +83,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 | **5. Statistical considerations (10%)** | (1) Statistical approaches are justified with proper explanation; (2) Statistical considerations are addressed but may lack depth or completeness; (3) Statistical considerations are inadequately addressed or overlooked. |
 | **6. Reproducibility (20%)**            | (1) Methods are described with sufficient detail for independent researchers to replicate the study; (2) Methods are mostly clear, but some steps or details may be ambiguous or missing; (3) Methods lack sufficient detail to enable reproducibility. |
 
-### 4. Results
+### 5. Results
 - Ensure that your results section meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249906)
 
 | **Criterion**                          | **Evaluation**                                                                                                                                           |
@@ -87,7 +94,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 | **4. Evidence-based reporting (10%)**  | (1) Results are factual, supported by evidence, and avoid redundancy; results are presented without interpreting or evaluating them; (2) Results are factual but may contain some redundancy or minor interpretation; (3) Results lack evidence, are overly interpretive, or contain significant redundancy. |
 | **5. Quality of statistical reporting (10%)** | (1) Statistical methods are appropriately applied, results are clearly reported (e.g., p-values, confidence intervals), and unnecessary details are omitted; (2) Statistical methods are mostly appropriate but may lack some clarity or conciseness; (3) Statistical methods are poorly reported, inappropriate, or missing entirely. |
 
-### 5. Discussion and conclusions
+### 6. Discussion and conclusions
 
 - Ensure that your discussion and conclusions meet these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249907)
 - Make study limitations a separate section
@@ -103,7 +110,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 | **6. Future Perspectives (5%)**        | (1) Provides thoughtful and realistic suggestions for future research, connecting them to the study’s findings and limitations; (2) Suggests future research but lacks detail or connection to the findings; (3) Fails to provide meaningful suggestions for future work. |
 
 
-### 6. Other required sections
+### 7. Other required sections
 - For examples for these sections, check this [paper](https://aelshall.weebly.com/uploads/1/1/6/0/116033487/012paperfw.pdf)
 - Make sure that your report include these sections in that order
 
@@ -119,7 +126,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 ## Writing quality
 
-### 7. Cohesiveness of writing
+### 8. Cohesiveness of writing
 
 For detail check the active link for each criterion if availabl
 
@@ -137,7 +144,7 @@ For detail check the active link for each criterion if availabl
 | **9. Understanding relationships among sources (10%)** | (1) Writing demonstrates a strong understanding of the relationships among materials from different sources; (2) Relationships among sources are mostly understood but may be underdeveloped in some areas; (3) The understanding of relationships among sources is weak or lacking. |
 | **10. Integration of information from sources (10%)** | (1) The proposal effectively ties together information from all sources; (2) Information is mostly integrated but may lack coherence in some areas; (3) The proposal fails to effectively integrate information from different sources. |
 
-### 8. Depth, clarity, and rigorousness of writing
+### 9. Depth, clarity, and rigorousness of writing
 
 For detail check the active link for each criterion if available
 
@@ -151,7 +158,7 @@ For detail check the active link for each criterion if available
 | **6. Rigor in argumentation (10%)** | (1) Arguments are well-structured, rigorous, and supported by solid evidence; (2) Arguments are mostly sound but may lack sufficient evidence or rigor in some areas; (3) Arguments are weak, poorly structured, or lack sufficient support. |
 | **7. Engagement with relevant literature (10%)** | (1) Writing engages deeply with relevant literature, integrating sources effectively; (2) Engagement with literature is present but may lack depth or integration; (3) Engagement with literature is superficial or largely absent. |
 
-### 9. Citation and source integration
+### 10. Citation and source integration
 
 For detail check the active link for each criterion if available
 
@@ -164,7 +171,7 @@ For detail check the active link for each criterion if available
 | **5. Completeness of citation list (20%)** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
 | **6. Accuracy of citations (20%)** | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
 
-### 10. Language clarity and precision
+### 11. Language clarity and precision
 
 For detail check the active link for each criterion if available
 
