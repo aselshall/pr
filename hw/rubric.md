@@ -20,7 +20,7 @@ This rubric is your guide for developing a high-quality report that meets profes
 ### Section breakdown
 
 - **Sections 1-6** focus on the core elements of your report (90 points):
-  - [1. Cover page (5 points)](#1-cover-page)
+  - [1. Cover page and abstract (5 points)](#1-cover-page-and-abstract)
   - [2. Introduction (15 points)](#2-introduction)
   - [3. Methods (15 points)](#3-methods)
   - [4. Results (30 points)](#4-results)
@@ -41,7 +41,7 @@ This rubric is your guide for developing a high-quality report that meets profes
   -  Evaluation 3.0: Point deduction at least 30%
     
 ## Core elements of the report
-### 1. Cover Page
+### 1. Cover Page and Abstract
 - Ensure that your title meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249904)   
 - Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
 
