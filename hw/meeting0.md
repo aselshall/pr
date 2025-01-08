@@ -6,7 +6,7 @@
 ### Meeting agenda
 - Go over the [course syllabus](https://aselshall.github.io/pr/#participation)  
 - Discuss immediate next steps 
-- Schedule individual progress meetings for the semester
+- [Schedule individual progress meetings](https://aselshall.github.io/pr/#course-schedule) for the semester
 - Answer any questions
 
 ### Instructions
