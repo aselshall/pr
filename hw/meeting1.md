@@ -20,7 +20,7 @@ For productive discussion, before our first progress meeting, you are required t
    - Identify one or two criteria where you think will be the most challenging to meet  
 3. Be ready to discuss the following with the instructor during your meeting:  
    - Your deliverables  
-   - Expected outcomes  
+   - Expected outputs  
    - Timeline for completing your project  
    - Tasks to achieve by our second progress meeting  
 
