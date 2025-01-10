@@ -21,8 +21,8 @@ This rubric is your guide for developing a high-quality report that meets profes
 ### Section breakdown
 
 - **Sections 1-7** focus on the core elements of your report (90 points):
-  - [1. Cover page (5 points)](#1-cover-page)
-  - [2. Abstract (5 points)](#2-abstract)
+  - [1. Cover page (1 points)](#1-cover-page)
+  - [2. Abstract (4 points)](#2-abstract)
   - [3. Introduction (15 points)](#3-introduction)
   - [4. Methods (15 points)](#4-methods)
   - [5. Results (30 points)](#5-results)
