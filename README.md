@@ -79,9 +79,9 @@ Your participation grade will reflect your professional attitude. You are expect
 | **Criteria**              | **Good (9-10 Points)**                                         | **Satisfactory (5-8 Points)**                             | **Needs Improvement (0-4 Points)**                           |
 |---------------------------|--------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
 | **Punctuality (5%)**       | Attends  meeting on time, ready to begin                    | Late but provides valid reasons               |  Late with repeated invalid excuses                 |
-| **Preparedness (35%)**     | Consistently comes prepared with clear updates, progress, and specific questions | Sometimes unprepared or provides vague updates              | Rarely prepared, with no meaningful updates or questions       |
+| **Preparedness (35%)**     | Prepared with clear updates, progress, and specific questions | Somehow unprepared or provides vague updates              | Unprepared, with no meaningful updates or questions       |
 | **Responsiveness to feedback (35%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
-| **Time management (15%)**  | Manages deadlines effectively and requests feedback well in advance | Occasionally late or relies on last-minute feedback requests | Frequently misses deadlines or depends on last-minute help     |
+| **Time management (15%)**  | Manages deadlines effectively and requests feedback well in advance | Relies on last-minute feedback requests |  Misses deadlines or depends on last-minute help     |
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members, and responds promptly to emails/requests| Communication is polite but lacks consistent collaboration | Dismissive, uncooperative, or unprofessional behavior          |
 
 #### Notes on the rubric
