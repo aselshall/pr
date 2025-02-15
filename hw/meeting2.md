@@ -16,8 +16,10 @@
 To ensure a productive discussion, before your second progress meeting, you are required to complete the following:  
 
 1. Submit a draft of your report:
-   - Prepare the first draft of your report incorporating feedback from the first progress meeting (if applicable)
-   - The report is expected to include all sections outlined in the rubric, with placeholders for incomplete parts or sections
+   - Prepare the first draft of your report incorporating feedback from the first progress meeting
+   - The report is expected to include all sections outlined in the rubric, with placeholders for incomplete parts or section
+      - As discussed in the first progress meeting, pay attention to the result section where you need to provide sub-headings for your results and under each subheading include figure and table captions that reflect the figures and tables you are intending to produce later
+      - As discussed in the first progress meeting, you need to provide sub-headings for your discussion section
    - Ensure that your report reflects any updates to your deliverables 
    - Upload your report to your folder on Teams before the meeting
 
