@@ -48,8 +48,8 @@ This rubric is your guide for developing a high-quality report that meets profes
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Cover page completeness (10%)** | (1) Plain cover page containing author's name, affiliation, email. (2) Cover page includes most required elements but has unnecessary information (e.g., logos). (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
-| **2. Title quality (20%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
+| **1. Cover page completeness (35%)** | (1) Plain cover page containing author's name, affiliation, email. (2) Cover page includes most required elements but has unnecessary information (e.g., logos). (3) Cover page lacks essential information (e.g., name, affiliation, or email) or is incomplete. |
+| **2. Title quality (65%)** | (1) Title is concise, precise, and informative. It reflects the aim and scope of the research, avoids jargon or abbreviations, and uses specific terms. (2) Title is generally clear but slightly broad or unclear in reflecting the research focus. (3) Title is non-informative, overly broad, or fails to describe the research. Uses jargon, abbreviations, or unnecessary words. |
 
 ### 2. Abstract
 - Ensure that your abstract meets these [requirments](https://guides.lib.uci.edu/c.php?g=334338&p=2249902)  
