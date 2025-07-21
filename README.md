@@ -4,6 +4,8 @@ U.A. Whitaker College of Engineering
 EGN 6941 Project, Spring 2025   
 Last updated: Jan 3, 2025
 
+Report Requirements: [Link](https://aselshall.github.io/pr/hw/rubric)
+
 ### Course Information
 - Course Code: EGN 6941 (CRN: 14468)  
 - Credit Hours: 3  
