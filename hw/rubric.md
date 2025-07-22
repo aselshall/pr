@@ -9,7 +9,7 @@
 - Sections 7–10: Improving your writing skills is a main learning objective, and grading with respect to writing quality will be strict
 - Your final report must adhere to this rubric
 -  Sample report (incomplete and with slightly different outline than your report): [Link](https://aselshall.github.io/pr/hw/AImanuscript.docx) 
-
+- Past Student Proposals and Projects: [Link](https://aselshall.github.io/pr/hw/rubric#student-project)
 ### How to use this rubric?
 
 This rubric is your guide for developing a high-quality report that meets professional standards including standards of technical writing. You can use this rubric to:
