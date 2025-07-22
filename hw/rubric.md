@@ -192,6 +192,14 @@ For detail check the active link for each criterion if available
 | **[8. Tense consistency](https://aselshall.github.io/rm/hw/proposal-guidelines#98-tenses-in-academic-writing) (10%)** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
 | **[9. Academic writing style](https://aselshall.github.io/rm/hw/proposal-guidelines#99-academic-writing-versus-creative-writing) (20%)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
 
+## Student project
+### Spring 2025
+- Akers, A. (2025),  Analysis of Water Table Elevations at FGCU: Trends and Seasonal Variations (2019–2024)
+- Ferding, I. (2025), Harnessing Large Language Models for Social Media Insights in Construction Management, [https://github.com/idaferding/aic](https://github.com/idaferding/aic)
+- Ifrim, M. M. (2025), Seismic Detonation and Residential Damage: Assessing Mining Impact in Naples, Florida, [https://github.com/mmifrim/seismic](https://github.com/mmifrim/seismic)
+- Jungers, C.S. (2025), Prolonged Heat Exposure in Florida’s Construction Workforce and Its Impact on Cognitive Fatigue, Emotional Resilience, Family Strain, and Workplace Factors for Holistic Well-Being, [https://github.com/TASDEMIR921/hot](https://github.com/TASDEMIR921/hot)
+- Lupiac Aspra, J.E. (2025), Enhancing Energy Efficiency in Subtropical Green Buildings: Integrating Active and Passive Systems through Building Energy Modeling with Environmental and Economic Analyses, [https://github.com/edulupiac/energy](https://github.com/edulupiac/energy)
+- Mastin, S. (2025) Exploring the Potential of Artificial Intelligence Chatbots in Electrical Construction: Addressing Challenges and Leveraging Opportunities for Enhanced Productivity and Collaboration, [https://github.com/samastin/aie](https://github.com/samastin/aie)
 
 ## AI assistance statement
 This rubric was developed with the assistance from ChatGPT-4o, which helped to aligne the provided rubric with established guidelines for academic writing. It offered specific suggestions for each section of the rubric, including detailed evaluations for clarity, and relevance. Also, AI ensured that the language is concise and aligned with students' expectations.
