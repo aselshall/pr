@@ -73,7 +73,7 @@ This schedule is tentative and may be adjusted based on individual student needs
 - Project Presentation: 10%
 - Project Report: 80%  
 
-### Participation
+### Participation - Professionalism
 In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) in week 1, which must be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
 
 Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Additionally, effective time management is part of the participation evaluation. For example, students who request additional final report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
