@@ -1,8 +1,8 @@
 # [EGN 6941 Project](https://aselshall.github.io/pr)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-EGN 6941 Project, Spring 2025   
-Last updated: Jan 3, 2025
+EGN 6941 Project, Spring 2026   
+Last updated: Oct 14, 2025
 
 Report Requirements: [Link](https://aselshall.github.io/pr/hw/rubric)
 
@@ -17,18 +17,18 @@ Ahmed S. Elshall, PhD
 Assistant Professor  
 Department of Bioengineering, Civil Engineering, and Environmental Engineering  
 U.A. Whitaker College of Engineering (Joint Appointment with The Water School)  
+Office: Holmes Hall 423 (inside 416)  
+Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
+Office Hours:
+- Tuesday 8:00 AM – 12:00 PM
+- By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
+     
 
-- Office: Holmes Hall 423 (inside 416)  
-- Phone: (239) 590-7591  
-- Email: aelshall@fgcu.edu  
-- Office Hours: Tuesday and Thursday 2:00 pm – 4:00 pm and by appointment
-- About Instructor: [aelshall.weebly.com](https://aelshall.weebly.com)
-  
 ## Catalogue Course Description
 Individual work culminating in a professional practice-oriented report.
 
 ## Introduction
-This course provides credit hours for executing the research project developed in EGN 6457 Research Methods (prerequisite), as outlined in the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture). Students will independently conduct, complete, and present their projects, with guidance from the instructor through regular progress meetings and technical support from faculty and external experts as needed.
+This course provides credit hours for executing the research project developed in EGN 6457 Research Methods (prerequisite), as outlined in the ["Big Picture"](https://aselshall.github.io/rm/hw/big-picture). You will independently conduct, complete, and present your project with guidance from your research supervisor through regular progress meetings.
 
 ## Course Learning Objectives
 By the end of this course, students will be able to:
@@ -44,16 +44,16 @@ No textbook required. Materials will be posted on Canvas.
 ## Course Schedule
 This schedule is tentative and may be adjusted based on individual student needs and progress. Due dates are tentative and final deadlines will be posted on Canvas. Progress meetings are one-on-one meetings spread over 3 weeks.
 
-| Week  | Date           | Activity                                | Milestone                         |
-|-------|----------------|-----------------------------------------|-----------------------------------|
-| 1-2   | Jan 6 - Jan 19 | [Kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) (individual meeting)         | Draft proposal                   |
-| 3-5   | Jan 20 – Feb 9  | [Progress meeting 1: Discuss final proposal](https://aselshall.github.io/pr/hw/meeting1) (individual meeting) | Final proposal                   |
-| 6-8   | Feb 10 – Mar 2  | [Progress meeting 2: Discuss draft report](https://aselshall.github.io/pr/hw/meeting2) (individual meeting) | Draft report                     |
-| 9     | Mar 3 - Mar 9   | Spring break                           |                                   |
-| 10-12  | Mar 10 – Mar 30 | [Progress meeting 3: Discuss interim report](https://aselshall.github.io/pr/hw/meeting3) (individual meeting) | Interim report                   |
-| 13-15 | Mar 31 – Apr 21 | [Progress meeting 4: Discuss draft final report](https://aselshall.github.io/pr/hw/meeting4) (individual meeting) | Draft final report               |
-| 16    | Apr 22          | [Presentation](https://aselshall.github.io/pr/hw/presentation) due at Eagle-X (8:00 am - 1:30 pm) or in class (6:00 pm - 7:30 pm)| Presentation |
-| 16    | Apr 24          | [Final report](https://aselshall.github.io/pr/hw/rubric) due by 11:59 pm           | Final report                     |
+| Week  | Date            | Activity                                | Milestone                         |
+|-------|-----------------|-----------------------------------------|-----------------------------------|
+| 1-2   | Jan 7 - Jan 18  | [Kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) (individual meeting)         | Draft proposal                   |
+| 3-5   | Jan 19 – Feb 8  | [Progress meeting 1: Discuss final proposal](https://aselshall.github.io/pr/hw/meeting1) (individual meeting) | Final proposal  |
+| 6-8   | Feb 9 – Mar 1   | [Progress meeting 2: Discuss draft report](https://aselshall.github.io/pr/hw/meeting2) (individual meeting) | Draft report      |
+| 9     | Mar 2 - Mar 8   | Spring break                           |                                   |
+| 10-12 | Mar 9 – Mar 29  | [Progress meeting 3: Discuss interim report](https://aselshall.github.io/pr/hw/meeting3) (individual meeting) | Interim report |
+| 13-14 | Mar 30 – Apr 12 | [Progress meeting 4: Discuss draft final report](https://aselshall.github.io/pr/hw/meeting4) (individual meeting) | Draft final report |
+| 15    | Friday Apr 17   | [Presentation](https://aselshall.github.io/pr/hw/presentation) due at Eagle-X (8:00 am - 1:30 pm) | Presentation |
+| 16    | Sunday Apr 26   | [Final report](https://aselshall.github.io/pr/hw/rubric) due by 11:59 pm           | Final report |
 
 ## Assessment and Grading
 
@@ -69,12 +69,11 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 ### Assessment Plan
 - Participation: 5%  
-- Project Proposal: 5%
-- Project Presentation: 10%
+- Project Presentation: 15%
 - Project Report: 80%  
 
 ### Participation - Professionalism
-In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0) in week 1, which must be attended by all students, we will plan for the rest of the semester. One-on-one progress meetings will be scheduled for the entire semester during the kickoff meeting. The progress meetings, which are online or in-person, are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the instructor as needed.
+In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0), you will plan with your research supervisor for the rest of the semester. The one-on-one progress meetings with your research supervisor are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the  research supervisor as needed.
 
 Your participation grade will reflect your professional attitude. You are expected to attend on time, be prepared, and effectively address feedback. Additionally, effective time management is part of the participation evaluation. For example, students who request additional final report reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback. Last-day requests should be limited to specific and legitimate questions, not for reviewing entire reports or resolving issues stemming from ignored feedback throughout the semester. Also, teamwork is a key skill and the student is expected to engage with the instructor and technical advisor (if presentas) as collaborative team members. Your participation grade will assess your professional attitude and professional maturity during the course according to the following expectations.
 
@@ -85,6 +84,12 @@ Your participation grade will reflect your professional attitude. You are expect
 | **Responsiveness to feedback (35%)** | Applies instructor feedback constructively and shows steady improvement | Applies feedback inconsistently or delays acting on it      | Frequently ignores feedback or repeats previous mistakes       |
 | **Time management (15%)**  | Manages deadlines effectively and requests feedback well in advance | Requests feedback with insufficient time for a meaningful response |  Misses deadlines or depends on last-minute help     |
 | **Teamwork and communication (10%)** | Engages respectfully and professionally with the instructor and advisor as collaborative team members, and responds promptly to emails/requests| Communication is polite but lacks consistent collaboration | Dismissive, uncooperative, or unprofessional behavior          |
+
+Important dates:
+- Last Day of Classes - Spring 2026 (Full Term) Monday, 27 April 2026
+- Finals Begin - Spring 2026 (Full Term) Tuesday, 28 April 2026
+- Finals End - Spring 2026 (Full Term) Saturday, 02 May 2026
+- Grades Due from Faculty by Noon - Spring 2026 (Full Term) Tuesday, 05 May 2026
 
 #### Notes on the rubric
 - Preparedness and responsiveness to feedback (70%) are critical for progress and improvement
@@ -100,7 +105,7 @@ Your participation grade will reflect your professional attitude. You are expect
 You need to submit a draft proposal by week 1 following  [the kickoff meeting guidelines](https://aselshall.github.io/pr/hw/meeting0), and incorporate feedback for final approval by your [first progress meeting](https://aselshall.github.io/pr/hw/meeting1). Your proposal needs to adhere to [these guidelines](https://aselshall.github.io/rm/hw/proposal-hw). The project proposal will be graded as "meets expectations" (full credit) or "does not meet expectations" (no credit), with potential deductions for unaddressed review comments from instructor.
 
 ### Project Presentation
-In-person final presentations are scheduled for **April 22 (6:00–7:30 pm)**. While these date and time are fixed, they may be subject to change due to unforeseen circumstances. The presentation location will be announced during the semester. Alternatively, you may present your work at [Eagle X](https://www.fgcu.edu/eaglex) for extra credit. Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report and poster are submitted on Canvas. Your presentation must be well-organized, professional, and include visual aids. Your presentation must adhere to the [final presentation guidelines and rubric](https://aselshall.github.io/pr/hw/presentation).
+In-person final presentations are scheduled for **April 17 (8:00 AM –1:30 PM)** at [Eagle X](https://www.fgcu.edu/eaglex). Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report and poster are submitted on Canvas. Your poster must be well-organized, professional, and include visual aids. Your poster must adhere to the [final presentation guidelines and rubric](https://aselshall.github.io/pr/hw/presentation).
 
 ### Project Report  
 Students are required to complete their projects and document their independent work in a professional and polished report. The report must follow and adhere to this [rubric](https://aselshall.github.io/pr/hw/rubric).  
@@ -132,8 +137,7 @@ Any instance of data falsification or fabrication will result in a grade of zero
 
 ### Additional Notes
 - Incomplete Grades: Only in exceptional circumstances
-- Drop Deadlines: Refer to the academic calendar
-- Grades Due: Tuesday, May 6, 2025
+- Drop Deadlines: Refer to the [academic calendar](https://www.fgcu.edu/academics/academiccalendar/)
 
 ## Program Learning Outcomes  
 The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows.
