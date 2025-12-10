@@ -35,7 +35,7 @@ By the end of this course, students will be able to:
 1. Define and develop an individual project for the MSE Program
 2. Research project subject, and conduct and complete your project
 3. Provide updates on report progress
-4. Present your project to class, or at a research symposium such as Eagle X
+4. Present your project at a research symposium (Eagle X)
 5. Submit professional project report
 
 ## Required Text 
@@ -68,9 +68,9 @@ This schedule is tentative and may be adjusted based on individual student needs
 
 
 ### Assessment Plan
-- Participation: 5%  
-- Project Presentation: 15%
-- Project Report: 80%  
+- Participation: 10%  
+- Project Presentation: 20%
+- Project Report: 70%  
 
 ### Participation - Professionalism
 In the [kickoff meeting](https://aselshall.github.io/pr/hw/meeting0), you will plan with your research supervisor for the rest of the semester. The one-on-one progress meetings with your research supervisor are mandatory and graded. Additional non-graded meetings for guidance can be requested by either the student or the  research supervisor as needed.
