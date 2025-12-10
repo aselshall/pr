@@ -139,20 +139,20 @@ Any instance of data falsification or fabrication will result in a grade of zero
 - Incomplete Grades: Only in exceptional circumstances
 - Drop Deadlines: Refer to the [academic calendar](https://www.fgcu.edu/academics/academiccalendar/)
 
+### Generative AI Use
+Permitted with proper citation. Students must document AI usage in the appendix. Non-compliance will be treated as academic dishonesty.  
+
+### Useful Information and Resources
+This [link](https://aselshall.github.io/ai/admin/resources) provides information on FGCU Writing lab, access to high performance computing (HPC) resources, program learning outcomes and other useful resources.
+
 ## University Policies
 
 ### Core Syllabus Policies 
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
-### Generative AI Use
-Permitted with proper citation. Students must document AI usage in the appendix. Non-compliance will be treated as academic dishonesty.  
-
 ### Policy for Academic Integrity Violations 
 - Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
 - Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
-
-### Useful Information and Resources
-This [link](https://aselshall.github.io/ai/admin/resources) provides information on FGCU Writing lab, access to high performance computing (HPC) resources, program learning outcomes and other useful resources.
 
 ### Syllabus Change Policy
 - The syllabus is subject to change with prior notice, except for grading.
