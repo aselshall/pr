@@ -6,6 +6,4 @@
 - Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted
 - To present at Eagle X, you need to check the abtract deadline
 - For detail, please contact Jessica Rhea at jrhea@fgcu.edu 
-
-#### Evaluation
-- For detailed criteria, review the [presentation rubric](https://github.com/aselshall/pr/blob/main/hw/Qualtrics%20Survey%20_%20Qualtrics%20Experience%20Management.pdf)
+- For evaluation criteria, review the [presentation rubric](https://github.com/aselshall/pr/blob/main/hw/Qualtrics%20Survey%20_%20Qualtrics%20Experience%20Management.pdf)
