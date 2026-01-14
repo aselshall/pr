@@ -2,7 +2,7 @@
 
 ### Eagle X Presentation
 - You will present your work at [Eagle X](https://www.fgcu.edu/eaglex) as a poster presentation
-- You will present in Session A typical from 8:45 AM to 10:15 AM or Session B typical from 10:30 AM to 12:00 PM: [Example of Eagle X Program](https://www.fgcu.edu/eaglex/files/2025eaglexprogram.4.22.25.pdf)
+- You will present in Session A generally from 8:45 AM to 10:15 AM or Session B generally from 10:30 AM to 12:00 PM: [Example of Eagle X Program](https://www.fgcu.edu/eaglex/files/2025eaglexprogram.4.22.25.pdf)
 - Your poster presentatin should be well-organized, professional, with visual aids
 - Winning an Eagle X Research Award guarantees an “A” grade, provided that the project report is submitted
 - To present at Eagle X, you need to check your FGCU email for the abtract deadline
